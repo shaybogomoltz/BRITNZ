@@ -1,5 +1,5 @@
 # IT_BR_NZ
-Mission: To connect Brazilians that work with IT at NZ and help those who want to be one
+Mission: To connect Brazilians that work with IT at NZ and help those who want to be one.
 
 So far we got 5 sections:
 1- LINKEDIN PROFILES OF IT RECRUITERS
