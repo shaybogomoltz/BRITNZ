@@ -5,7 +5,7 @@
 * 2degrees - https://careers.2degreesmobile.co.nz/search 
 * AUCKLAND COUNCIL - https://careers.aucklandcouncil.govt.nz/search?search=cvid-LIK3j 
 * AUCKLAND TRANSPORT - https://careers.aucklandtransport.govt.nz/search 
-* Beca - https://beca.csod.com/ats/careersite/search.aspx?site=1&c=beca*
+* Beca - https://beca.csod.com/ats/careersite/search.aspx?site=1&c=beca
 * CISCO - http://www.cisco.com/c/en/us/about/careers.html 
 * DATACOM - http://www.datacom.co.nz/Careers/Hiring-Now?Location=Auckland 
 * DELL - http://jobs.dell.com/nz/auckland-jobs 
