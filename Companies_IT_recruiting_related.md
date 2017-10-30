@@ -22,6 +22,6 @@
 * Working in New Zealand - https://www.workingin-newzealand.com/jobs/
 
 PS: You can find more agencies on those 2 Govt sites. 
-*https://www.careers.govt.nz/job-hunting/job-vacancy-and-recruitment-websites
+* https://www.careers.govt.nz/job-hunting/job-vacancy-and-recruitment-websites
 * https://www.newzealandnow.govt.nz/work-in-nz/finding-work/job-websites-and-recruitment
 
