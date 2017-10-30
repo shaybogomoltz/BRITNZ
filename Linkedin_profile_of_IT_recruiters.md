@@ -1,5 +1,6 @@
 # Linkedin profile of IT recruiters
 #### Before start adding them, write a good message to send together with the invitation.
+#### This will defintely open a good communication channel and will increase your chance of landing a job.
 
 * https://www.linkedin.com/in/alricwright/ 
 * https://www.linkedin.com/in/amangill1/ 
