@@ -9,6 +9,7 @@
 * DATACOM - http://www.datacom.co.nz/Careers/Hiring-Now?Location=Auckland 
 * DELL - http://jobs.dell.com/nz/auckland-jobs 
 * DELOITTE - https://jobs2.deloitte.com/nz/en/Information-Technology-jobs 
+* DXC Technology - https://jobs.dxc.technology/ 
 * EMC - http://www.emc.com/careers/index.htm 
 * EY - https://tas-ey.taleo.net/careersection/gexp01/jobsearch.ftl?lang=en 
 * Gentrack - http://www.gentrack.com/gentrack-careers-list/?location=781709 
