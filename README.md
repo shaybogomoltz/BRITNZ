@@ -5,7 +5,7 @@ Mission: To connect Brazilians that work with IT at NZ and help those who want t
 So far we got those sections:<br />
 - [Linkedin profile of IT recruiters](/Linkedin_profile_of_IT_recruiters.md)<br />
 - [Companies that usually don't advertise on Seek/Trademe](/Companies_that_usually_dont_advertise_on_SeekTrademe.md)<br />
-- Companies IT recruiting related<br />
+- [Companies IT recruiting related](/Companies_IT_recruiting_related.md)<br /> 
 - Linkedin profile of IT Brazilians<br />
 - Groups (Whatsapp, Facebook, Slack...)<br />
 
