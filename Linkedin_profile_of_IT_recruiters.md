@@ -1,11 +1,11 @@
 # Linkedin profile of IT recruiters < br/>
 #### Before start adding them, write a good message to send together with the invitation.
 
-https://www.linkedin.com/in/alricwright/
-https://www.linkedin.com/in/amangill1/
-https://www.linkedin.com/in/ameliafitchewrwa/
-https://www.linkedin.com/in/amakhni/
-https://www.linkedin.com/in/amrita-singh-54697abb/
+https://www.linkedin.com/in/alricwright/ 
+https://www.linkedin.com/in/amangill1/ 
+https://www.linkedin.com/in/ameliafitchewrwa/ 
+https://www.linkedin.com/in/amakhni/ 
+https://www.linkedin.com/in/amrita-singh-54697abb/ 
 https://www.linkedin.com/in/amyhalligannewzealand/
 https://www.linkedin.com/in/anitamatthews2/
 https://www.linkedin.com/in/benigna-mezofi-1b26b520/
