@@ -9,13 +9,17 @@ PS: Smart rules to reach out other Brazilians.<br />
 5- Better than asking for something is to create a real networking.<br />
 
 
+* Name: Rafael Paiva
+* Area: Developer
+* Linkedin: https://www.linkedin.com/in/rafaelfpaiva/
+<br /><br />
 * Name: Shay Camlot Bogomoltz
 * Area: IT Consultancy
 * Linkedin: https://www.linkedin.com/in/shaycb/
 <br /><br />
-* Name: 
-* Area: 
-* Linkedin: 
+* Name: Vanessa La Luna
+* Area: QA 
+* Linkedin: https://nz.linkedin.com/in/nessalaluna
 <br /><br />
 * Name: 
 * Area: 
