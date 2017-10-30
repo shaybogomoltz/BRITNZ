@@ -12,11 +12,12 @@ PS: Smart rules to reach out other Brazilians.
 * Name: Shay Camlot Bogomoltz
 * IT area: IT Consultancy
 * Linkedin: https://www.linkedin.com/in/shaycb/
-
+< br /> <br />
 * Name: Shay Camlot Bogomoltz
 * IT area: IT Consultancy
 * Linkedin: https://www.linkedin.com/in/shaycb/
-
+< br /> <br />
 * Name: Shay Camlot Bogomoltz
 * IT area: IT Consultancy
 * Linkedin: https://www.linkedin.com/in/shaycb/
+< br /> <br />
