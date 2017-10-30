@@ -1,5 +1,5 @@
 # Companies IT recruiting related
-#### Some companies usually don't advertise on other sites specially when they have a good branding or size. For those companies the best way to land a job is to enter in the career of their site every couple of days and see if there is a new spot.
+#### Sometimes the best way for landing a job is to find an agency that is specialized in IT Jobs. In most of those companies you will find the recruiters on [Linkedin Profile of IT recruiters](/Linkedin_profile_of_IT_recruiters.md).
 
 
 * Absolute IT - https://www.absoluteit.co.nz/ 
