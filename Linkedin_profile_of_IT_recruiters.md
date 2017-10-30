@@ -1,74 +1,74 @@
-# Linkedin profile of IT recruiters < br/>
+# Linkedin profile of IT recruiters
 #### Before start adding them, write a good message to send together with the invitation.
 
-https://www.linkedin.com/in/alricwright/< br/>
-https://www.linkedin.com/in/amangill1/< br/>
-https://www.linkedin.com/in/ameliafitchewrwa/< br/>
-https://www.linkedin.com/in/amakhni/< br/>
-https://www.linkedin.com/in/amrita-singh-54697abb/< br/>
-https://www.linkedin.com/in/amyhalligannewzealand/< br/>
-https://www.linkedin.com/in/anitamatthews2/< br/>
-https://www.linkedin.com/in/benigna-mezofi-1b26b520/< br/>
-https://www.linkedin.com/in/candiceskipps/< br/>
-https://www.linkedin.com/in/carl-robinson-ba83702/< br/>
-https://www.linkedin.com/in/caroline-mohenoa-373949126/< br/>
-https://www.linkedin.com/in/cbocaniala/< br/>
-https://www.linkedin.com/in/clairelowe/< br/>
-https://www.linkedin.com/in/claresaunders1/< br/>
-https://www.linkedin.com/in/chrismreid/< br/>
-https://www.linkedin.com/in/christopher-coelho-b7373521/< br/>
-https://www.linkedin.com/in/danielmcneaney/< br/>
-https://www.linkedin.com/in/daviddivett/< br/>
-https://www.linkedin.com/in/emmaalexanderrecruiter/< br/>
-https://www.linkedin.com/in/emmarowley/< br/>
-https://www.linkedin.com/in/hayley-macdonald-4090984/< br/>
-https://www.linkedin.com/in/helen-joronen-933953/< br/>
-https://www.linkedin.com/in/itdevelopmentrecruiter/< br/>
-https://www.linkedin.com/in/jaakal-patel-6201349/< br/>
-https://www.linkedin.com/in/jessicaxind/< br/>
-https://www.linkedin.com/in/jess-leney-70388039/< br/>
-https://www.linkedin.com/in/jodydirkx/< br/>
-https://www.linkedin.com/in/jolloyd1/< br/>
-https://www.linkedin.com/in/julian-oakes-069940117/< br/>
-https://www.linkedin.com/in/katejamesnz/< br/>
-https://www.linkedin.com/in/katemurdochnz/< br/>
-https://www.linkedin.com/in/kathryn-stewart-nee-thomson-5334a46/< br/>
-https://www.linkedin.com/in/kavalpatel/< br/>
-https://www.linkedin.com/in/leeannethomson/< br/>
-https://www.linkedin.com/in/leighanne-mcaleer-4731621a/< br/>
-https://www.linkedin.com/in/lenaguohalo/< br/>
-https://www.linkedin.com/in/lisamcooley/< br/>
-https://www.linkedin.com/in/lucasgrossi/< br/>
-https://www.linkedin.com/in/lynncreandigital/< br/>
-https://www.linkedin.com/in/mark-stokes-aa421a123/< br/>
-https://www.linkedin.com/in/mauriceslingerland/< br/>
-https://www.linkedin.com/in/mhakpazcoguin/< br/>
-https://www.linkedin.com/in/mostlysimon/< br/>
-https://www.linkedin.com/in/natalieparr/< br/>
-https://www.linkedin.com/in/nehalhshah/< br/>
-https://www.linkedin.com/in/neil-frandsen-7610251b/< br/>
-https://www.linkedin.com/in/neekee-reshamwala-270a9185/< br/>
-https://www.linkedin.com/in/nidhibahuguna/< br/>
-https://www.linkedin.com/in/nicky-laurenzi-4687548/< br/>
-https://www.linkedin.com/in/nigamm/< br/>
-https://www.linkedin.com/in/nikitaleiman/< br/>
-https://www.linkedin.com/in/olivia-winter-246130a7/< br/>
-https://www.linkedin.com/in/peter-pierzynski/< br/>
-https://www.linkedin.com/in/rachkemp/< br/>
-https://www.linkedin.com/in/reneemouton/< br/>
-https://www.linkedin.com/in/rell-barton-3a834068/< br/>
-https://www.linkedin.com/in/robert-keyworth-583871/< br/>
-https://www.linkedin.com/in/samantha-brown-31b3b6108/< br/>
-https://www.linkedin.com/in/samanthamorrisfind/< br/>
-https://www.linkedin.com/in/santiago-lopez-gui%C3%B1azu/< br/>
-https://www.linkedin.com/in/sarah-frost-46499b75/< br/>
-https://www.linkedin.com/in/scott-burnett-265b99127/< br/>
-https://www.linkedin.com/in/shams-shiraz-6bb96524/< br/>
-https://www.linkedin.com/in/shweta-chopra-4675024/< br/>
-https://www.linkedin.com/in/subbudesu/< br/>
-https://www.linkedin.com/in/tash-silva-055089102/< br/>
-https://www.linkedin.com/in/tim-palmgren-778b376a/< br/>
-https://www.linkedin.com/in/troyhammond/< br/>
-https://www.linkedin.com/in/yvonnetaycorbett/< br/>
-https://www.linkedin.com/in/1jessjohnson/< br/>
-https://www.linkedin.com/in/🌾-anna-hobern🌾-02667b37/< br/>
+https://www.linkedin.com/in/alricwright/ < br/> 
+https://www.linkedin.com/in/amangill1/ < br/> 
+https://www.linkedin.com/in/ameliafitchewrwa/ < br/> 
+https://www.linkedin.com/in/amakhni/ < br/> 
+https://www.linkedin.com/in/amrita-singh-54697abb/ < br/> 
+https://www.linkedin.com/in/amyhalligannewzealand/ < br/> 
+https://www.linkedin.com/in/anitamatthews2/ < br/> 
+https://www.linkedin.com/in/benigna-mezofi-1b26b520/ < br/> 
+https://www.linkedin.com/in/candiceskipps/ < br/> 
+https://www.linkedin.com/in/carl-robinson-ba83702/ < br/> 
+https://www.linkedin.com/in/caroline-mohenoa-373949126/ < br/> 
+https://www.linkedin.com/in/cbocaniala/ < br/> 
+https://www.linkedin.com/in/clairelowe/ < br/> 
+https://www.linkedin.com/in/claresaunders1/ < br/> 
+https://www.linkedin.com/in/chrismreid/ < br/> 
+https://www.linkedin.com/in/christopher-coelho-b7373521/ < br/> 
+https://www.linkedin.com/in/danielmcneaney/ < br/> 
+https://www.linkedin.com/in/daviddivett/ < br/> 
+https://www.linkedin.com/in/emmaalexanderrecruiter/ < br/> 
+https://www.linkedin.com/in/emmarowley/ < br/> 
+https://www.linkedin.com/in/hayley-macdonald-4090984/ < br/> 
+https://www.linkedin.com/in/helen-joronen-933953/ < br/> 
+https://www.linkedin.com/in/itdevelopmentrecruiter/ < br/> 
+https://www.linkedin.com/in/jaakal-patel-6201349/ < br/> 
+https://www.linkedin.com/in/jessicaxind/ < br/> 
+https://www.linkedin.com/in/jess-leney-70388039/ < br/> 
+https://www.linkedin.com/in/jodydirkx/ < br/> 
+https://www.linkedin.com/in/jolloyd1/ < br/> 
+https://www.linkedin.com/in/julian-oakes-069940117/ < br/> 
+https://www.linkedin.com/in/katejamesnz/ < br/> 
+https://www.linkedin.com/in/katemurdochnz/ < br/> 
+https://www.linkedin.com/in/kathryn-stewart-nee-thomson-5334a46/ < br/> 
+https://www.linkedin.com/in/kavalpatel/ < br/> 
+https://www.linkedin.com/in/leeannethomson/ < br/> 
+https://www.linkedin.com/in/leighanne-mcaleer-4731621a/ < br/> 
+https://www.linkedin.com/in/lenaguohalo/ < br/> 
+https://www.linkedin.com/in/lisamcooley/ < br/> 
+https://www.linkedin.com/in/lucasgrossi/ < br/> 
+https://www.linkedin.com/in/lynncreandigital/ < br/> 
+https://www.linkedin.com/in/mark-stokes-aa421a123/ < br/> 
+https://www.linkedin.com/in/mauriceslingerland/ < br/> 
+https://www.linkedin.com/in/mhakpazcoguin/ < br/> 
+https://www.linkedin.com/in/mostlysimon/ < br/> 
+https://www.linkedin.com/in/natalieparr/ < br/> 
+https://www.linkedin.com/in/nehalhshah/ < br/> 
+https://www.linkedin.com/in/neil-frandsen-7610251b/ < br/> 
+https://www.linkedin.com/in/neekee-reshamwala-270a9185/ < br/> 
+https://www.linkedin.com/in/nidhibahuguna/ < br/> 
+https://www.linkedin.com/in/nicky-laurenzi-4687548/ < br/> 
+https://www.linkedin.com/in/nigamm/ < br/> 
+https://www.linkedin.com/in/nikitaleiman/ < br/> 
+https://www.linkedin.com/in/olivia-winter-246130a7/ < br/> 
+https://www.linkedin.com/in/peter-pierzynski/ < br/> 
+https://www.linkedin.com/in/rachkemp/ < br/> 
+https://www.linkedin.com/in/reneemouton/ < br/> 
+https://www.linkedin.com/in/rell-barton-3a834068/ < br/> 
+https://www.linkedin.com/in/robert-keyworth-583871/ < br/> 
+https://www.linkedin.com/in/samantha-brown-31b3b6108/ < br/> 
+https://www.linkedin.com/in/samanthamorrisfind/ < br/> 
+https://www.linkedin.com/in/santiago-lopez-gui%C3%B1azu/ < br/> 
+https://www.linkedin.com/in/sarah-frost-46499b75/ < br/> 
+https://www.linkedin.com/in/scott-burnett-265b99127/ < br/> 
+https://www.linkedin.com/in/shams-shiraz-6bb96524/ < br/> 
+https://www.linkedin.com/in/shweta-chopra-4675024/ < br/> 
+https://www.linkedin.com/in/subbudesu/ < br/> 
+https://www.linkedin.com/in/tash-silva-055089102/ < br/> 
+https://www.linkedin.com/in/tim-palmgren-778b376a/ < br/> 
+https://www.linkedin.com/in/troyhammond/ < br/> 
+https://www.linkedin.com/in/yvonnetaycorbett/ < br/> 
+https://www.linkedin.com/in/1jessjohnson/ < br/> 
+https://www.linkedin.com/in/🌾-anna-hobern🌾-02667b37/ < br/> 
