@@ -8,3 +8,5 @@ So far we got those sections:<br />
 - Companies IT recruiting related<br />
 - Linkedin profile of IT Brazilians<br />
 - Groups (Whatsapp, Facebook, Slack...)<br />
+
+PS: Found a broken link? There is something that you can improve it? Help us and yourself by editing this document. Don't know how to edit, send me a private message on shay.bogomoltz@gmail.com
