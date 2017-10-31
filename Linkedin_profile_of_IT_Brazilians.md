@@ -22,12 +22,16 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Linkedin: https://www.linkedin.com/in/fernando-paz/
 <br /><br />
 * Name: Francisco Uderson
-* Area: Support Consultant
+* Area: Support Analyst
 * Linkedin: https://www.linkedin.com/in/uderson1/
 <br /><br />
 * Name: Gabriel Alves Vilches
 * Area: Developer
 * Linkedin: https://www.linkedin.com/in/gavilches/
+<br /><br />
+* Name: Lucas Nishimura
+* Area: Support Analyst
+* Linkedin: https://www.linkedin.com/in/lucas-nishimura/
 <br /><br />
 * Name: Marcelo dos Anjos
 * Area: Business Analyst
