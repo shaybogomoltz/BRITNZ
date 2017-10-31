@@ -5,10 +5,12 @@
 * 2degrees - https://careers.2degreesmobile.co.nz/search 
 * AUCKLAND COUNCIL - https://careers.aucklandcouncil.govt.nz/search?search=cvid-LIK3j 
 * AUCKLAND TRANSPORT - https://careers.aucklandtransport.govt.nz/search 
+* Beca - https://beca.csod.com/ats/careersite/search.aspx?site=1&c=beca
 * CISCO - http://www.cisco.com/c/en/us/about/careers.html 
 * DATACOM - http://www.datacom.co.nz/Careers/Hiring-Now?Location=Auckland 
 * DELL - http://jobs.dell.com/nz/auckland-jobs 
 * DELOITTE - https://jobs2.deloitte.com/nz/en/Information-Technology-jobs 
+* DXC Technology - https://jobs.dxc.technology/ 
 * EMC - http://www.emc.com/careers/index.htm 
 * EY - https://tas-ey.taleo.net/careersection/gexp01/jobsearch.ftl?lang=en 
 * Gentrack - http://www.gentrack.com/gentrack-careers-list/?location=781709 
