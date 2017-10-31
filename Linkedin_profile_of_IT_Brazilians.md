@@ -17,6 +17,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: Developer
 * Linkedin: https://www.linkedin.com/in/danielmariz/
 <br /><br />
+* Name: Diego Segreto
+* Area: Pre-Sales
+* Linkedin: https://www.linkedin.com/in/diegosegreto/
+<br /><br />
 * Name: Edjeorgton Neto
 * Area: Technical Manager
 * Linkedin: https://www.linkedin.com/in/edjeorgtonneto/
@@ -48,6 +52,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Name: Marcelo dos Anjos
 * Area: Business Analyst
 * Linkedin: https://www.linkedin.com/in/marcelotdosanjos/
+<br /><br />
+* Name: Marcelo M. Rebello
+* Area: Developer
+* Linkedin: https://www.linkedin.com/in/marcelo-rebello/
 <br /><br />
 * Name: Maryene Muniz
 * Area: QA
