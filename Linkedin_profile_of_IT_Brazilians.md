@@ -41,6 +41,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: Developer
 * Linkedin: https://www.linkedin.com/in/josercoelho/
 <br /><br />
+* Name: Lucas Possamai
+* Area: Database
+* Linkedin: https://www.linkedin.com/in/lucaspossamai/
+<br /><br />
 * Name: Lucas Nishimura
 * Area: Support Analyst
 * Linkedin: https://www.linkedin.com/in/lucas-nishimura/
@@ -81,7 +85,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: QA 
 * Linkedin: https://nz.linkedin.com/in/nessalaluna
 <br /><br />
-
+* Name: Vinicius Paiva da Silva
+* Area: Developer
+* Linkedin: https://www.linkedin.com/in/vinicius-da-silva-50963923/
+<br /><br />
 
 
 
