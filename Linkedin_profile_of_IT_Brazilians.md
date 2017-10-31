@@ -61,15 +61,9 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: QA 
 * Linkedin: https://nz.linkedin.com/in/nessalaluna
 <br /><br />
-
-
-
-
-
-
-* Name: 
-* Area: 
-* Linkedin: 
+* Name: Maikel Penz
+* Area: Database Administrator
+* Linkedin: https://www.linkedin.com/in/maikel-alexsander-penz-31050577/
 <br /><br />
 
 
