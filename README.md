@@ -10,5 +10,5 @@ So far we got those sections:<br />
 - [Linkedin profile of IT Brazilians](Linkedin_profile_of_IT_Brazilians.md) (That actually works with IT)<br />
 - [Groups](Groups.md) (Whatsapp, Facebook, Slack...)<br />
 
-PS: Found a broken link? There is something that you can improve it? Help us and yourself by editing this document. Don't know how to edit? send me a private message on shay.bogomoltz@gmail.com
+PS: Have you founded a broken link? Is there something that you can improve? Help us and yourself by editing this document. Don't know how to edit? send me a private message at shay.bogomoltz@gmail.com
 
