@@ -14,6 +14,7 @@ Name | Area | Linkedin
 --- | --- | ---
 Alonso Coutinho Lick | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
+Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossard/](https://www.linkedin.com/in/fcfrossard/)
 Fernando Paz | Developer| [https://www.linkedin.com/in/fernando-paz/](https://www.linkedin.com/in/fernando-paz/)
 Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](https://www.linkedin.com/in/uderson1/)
 Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](https://www.linkedin.com/in/gavilches/)
