@@ -29,6 +29,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: Developer
 * Linkedin: https://www.linkedin.com/in/gavilches/
 <br /><br />
+* Name: Marcelo dos Anjos
+* Area: Business Analyst
+* Linkedin: https://www.linkedin.com/in/marcelotdosanjos/
+<br /><br />
 * Name: Maryene Muniz
 * Area: QA
 * Linkedin: https://www.linkedin.com/in/maryenemuniz/
@@ -57,10 +61,7 @@ PS: Smart rules to reach out other Brazilians.<br />
 
 
 
-* Name: 
-* Area: 
-* Linkedin: 
-<br /><br />
+
 
 * Name: 
 * Area: 
