@@ -13,6 +13,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: Product Analyst
 * Linkedin: https://www.linkedin.com/in/alonsolicks/
 <br /><br />
+* Name: Daniel Mariz
+* Area: Developer
+* Linkedin: https://www.linkedin.com/in/danielmariz/
+<br /><br />
 * Name: Edjeorgton Neto
 * Area: Technical Manager
 * Linkedin: https://www.linkedin.com/in/edjeorgtonneto/
