@@ -13,6 +13,7 @@ PS: Smart rules to reach out other Brazilians.
 Name | Area | Linkedin
 --- | --- | ---
 Alonso Coutinho Lick | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
+Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
 Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossard/](https://www.linkedin.com/in/fcfrossard/)
 Fernando Paz | Developer| [https://www.linkedin.com/in/fernando-paz/](https://www.linkedin.com/in/fernando-paz/)
