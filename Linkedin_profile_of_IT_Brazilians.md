@@ -1,4 +1,5 @@
 # Linkedin profile of IT Brazilians
+
 **This section is where you can find other Brazilians that already work with IT in NZ. It will be added only the linkedin profile.**
 
 PS: Smart rules to reach out other Brazilians.
@@ -26,3 +27,4 @@ Ricardo Rauber | Software Architech| [https://www.linkedin.com/in/ricardo-rauber
 Shay Camlot Bogomoltz | IT Consultancy| [https://www.linkedin.com/in/shaycb/](https://www.linkedin.com/in/shaycb/)
 Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linkedin.com/in/nessalaluna)
 Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
+Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-silva-50963923/](https://www.linkedin.com/in/vinicius-da-silva-50963923/)
