@@ -11,18 +11,18 @@ PS: Smart rules to reach out other Brazilians.
 
 Name | Area | Linkedin
 --- | --- | ---
-Alonso Coutinho Lick | Product Analyst | https://www.linkedin.com/in/alonsolicks/
-Edjeorgton Neto | Technical Manager| https://www.linkedin.com/in/edjeorgtonneto/
-Fernando Paz | Developer| https://www.linkedin.com/in/fernando-paz/
-Francisco Uderson | Support Analyst| https://www.linkedin.com/in/uderson1/
-Gabriel Alves Vilches | Developer| https://www.linkedin.com/in/gavilches/
-Lucas Nishimura | Support Analyst| https://www.linkedin.com/in/lucas-nishimura/
-Maikel Penz | Database Administrator| https://www.linkedin.com/in/maikel-alexsander-penz-31050577/
-Marcelo dos Anjos | Business Analyst| https://www.linkedin.com/in/marcelotdosanjos/
-Maryene Muniz | QA| https://www.linkedin.com/in/maryenemuniz/
-Rafael Paiva | Developer| https://www.linkedin.com/in/rafaelfpaiva/
-Rebecca Pinheiro | Developer| https://www.linkedin.com/in/rebecca-pinheiro/
-Ricardo Rauber | Software Architech| https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/
-Shay Camlot Bogomoltz | IT Consultancy| https://www.linkedin.com/in/shaycb/
-Vanessa La Luna | QA | https://nz.linkedin.com/in/nessalaluna
-Mário Aprá | Developer | https://www.linkedin.com/in/marioapra/
+Alonso Coutinho Lick | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
+Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
+Fernando Paz | Developer| [https://www.linkedin.com/in/fernando-paz/](https://www.linkedin.com/in/fernando-paz/)
+Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](https://www.linkedin.com/in/uderson1/)
+Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](https://www.linkedin.com/in/gavilches/)
+Lucas Nishimura | Support Analyst| [https://www.linkedin.com/in/lucas-nishimura/](https://www.linkedin.com/in/lucas-nishimura/)
+Maikel Penz | Database Administrator| [https://www.linkedin.com/in/maikel-alexsander-penz-31050577/](https://www.linkedin.com/in/maikel-alexsander-penz-31050577/)
+Marcelo dos Anjos | Business Analyst| [https://www.linkedin.com/in/marcelotdosanjos/](https://www.linkedin.com/in/marcelotdosanjos/)
+Maryene Muniz | QA| [https://www.linkedin.com/in/maryenemuniz/](https://www.linkedin.com/in/maryenemuniz/)
+Rafael Paiva | Developer| [https://www.linkedin.com/in/rafaelfpaiva/](https://www.linkedin.com/in/rafaelfpaiva/)
+Rebecca Pinheiro | Developer| [https://www.linkedin.com/in/rebecca-pinheiro/](https://www.linkedin.com/in/rebecca-pinheiro/)
+Ricardo Rauber | Software Architech| [https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/](https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/)
+Shay Camlot Bogomoltz | IT Consultancy| [https://www.linkedin.com/in/shaycb/](https://www.linkedin.com/in/shaycb/)
+Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linkedin.com/in/nessalaluna)
+Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
