@@ -33,6 +33,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: Support Analyst
 * Linkedin: https://www.linkedin.com/in/lucas-nishimura/
 <br /><br />
+* Name: Maikel Penz
+* Area: Database Administrator
+*Linkedin: https://www.linkedin.com/in/maikel-alexsander-penz-31050577/
+<br /><br />
 * Name: Marcelo dos Anjos
 * Area: Business Analyst
 * Linkedin: https://www.linkedin.com/in/marcelotdosanjos/
