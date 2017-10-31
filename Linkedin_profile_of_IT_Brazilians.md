@@ -15,6 +15,7 @@ Name | Area | Linkedin
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
 Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in/cebraga/](https://www.linkedin.com/in/cebraga/)
 Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
+Daniel Serra | Business Analyst | [https://www.linkedin.com/in/danielnaimserra/](https://www.linkedin.com/in/danielnaimserra/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
 Fabricio Crema | Support Engineer | [https://www.linkedin.com/in/fabriciocrema/](https://www.linkedin.com/in/fabriciocrema/)
 Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossard/](https://www.linkedin.com/in/fcfrossard/)
