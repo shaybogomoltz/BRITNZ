@@ -33,6 +33,10 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: Developer
 * Linkedin: https://www.linkedin.com/in/gavilches/
 <br /><br />
+* Name: José Ricardo Coelho
+* Area: Developer
+* Linkedin: https://www.linkedin.com/in/josercoelho/
+<br /><br />
 * Name: Lucas Nishimura
 * Area: Support Analyst
 * Linkedin: https://www.linkedin.com/in/lucas-nishimura/
