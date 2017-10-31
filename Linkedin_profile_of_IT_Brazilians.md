@@ -4,7 +4,7 @@
 
 PS: Smart rules to reach out other Brazilians.
 1. Be polite everyone deserve it.
-2. No one MUST do anything, if they do it go for you.
+2. No one MUST do anything, if they do it good for you.
 3. Never start a conversation with "Can you give me a job?"
 4. Inviting a person for a coffee/beer, it will help you to create empathy.
 5. Better than asking for something is to create a real networking.
@@ -13,6 +13,7 @@ PS: Smart rules to reach out other Brazilians.
 Name | Area | Linkedin
 --- | --- | ---
 Alonso Coutinho Lick | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
+Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in/cebraga/](https://www.linkedin.com/in/cebraga/)
 Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
 Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossard/](https://www.linkedin.com/in/fcfrossard/)
