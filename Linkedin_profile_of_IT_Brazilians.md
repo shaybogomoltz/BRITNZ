@@ -49,7 +49,7 @@ PS: Smart rules to reach out other Brazilians.<br />
 * Area: Developer
 * Linkedin: https://www.linkedin.com/in/rebecca-pinheiro/
 <br /><br />
-* Name: Ricardo Raubes
+* Name: Ricardo Rauber
 * Area: Software Architech
 * Linkedin: https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/
 <br /><br />
