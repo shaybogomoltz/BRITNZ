@@ -35,7 +35,7 @@ PS: Smart rules to reach out other Brazilians.<br />
 <br /><br />
 * Name: Maikel Penz
 * Area: Database Administrator
-*Linkedin: https://www.linkedin.com/in/maikel-alexsander-penz-31050577/
+* Linkedin: https://www.linkedin.com/in/maikel-alexsander-penz-31050577/
 <br /><br />
 * Name: Marcelo dos Anjos
 * Area: Business Analyst
