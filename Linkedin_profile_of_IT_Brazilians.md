@@ -11,6 +11,7 @@ PS: Smart rules to reach out other Brazilians.
 
 Name | Area | Linkedin
 --- | --- | ---
+Alan Rodrigues Soares | Developer | [https://www.linkedin.com/in/alanrsoares/](https://www.linkedin.com/in/alanrsoares/)
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
 Arnaldo Henrique Miranda | QA | [https://www.linkedin.com/in/arnaldo-henrique-miranda/](https://www.linkedin.com/in/arnaldo-henrique-miranda/)
 Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in/cebraga/](https://www.linkedin.com/in/cebraga/)
