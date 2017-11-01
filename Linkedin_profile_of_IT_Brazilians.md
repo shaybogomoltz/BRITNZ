@@ -30,6 +30,7 @@ Leander Seefeld | Developer | [https://www.linkedin.com/in/leanseefeld/](https:/
 Leonardo Machado | Developer | [https://www.linkedin.com/in/lmachado/](https://www.linkedin.com/in/lmachado/)
 Lucas Nishimura | Support Analyst| [https://www.linkedin.com/in/lucas-nishimura/](https://www.linkedin.com/in/lucas-nishimura/)
 Lucas Possamai | Database | [https://www.linkedin.com/in/lucaspossamai/](https://www.linkedin.com/in/lucaspossamai/)
+Luis Henrique Bekcer | SAP | [https://www.linkedin.com/in/luisbecker/](https://www.linkedin.com/in/luisbecker/)
 Maikel Penz | Database | [https://www.linkedin.com/in/maikel-alexsander-penz-31050577/](https://www.linkedin.com/in/maikel-alexsander-penz-31050577/)
 Marcelo dos Anjos | Business Analyst| [https://www.linkedin.com/in/marcelotdosanjos/](https://www.linkedin.com/in/marcelotdosanjos/)
 Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
