@@ -9,12 +9,13 @@ PS: Smart rules to reach out other Brazilians.
 4. Inviting a person for a coffee/beer, it will help you to create empathy.
 5. Better than asking for something is to create a real networking.
 
-
 Name | Area | Linkedin
 --- | --- | ---
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
+Arnaldo Henrique Miranda | QA | [https://www.linkedin.com/in/arnaldo-henrique-miranda/](https://www.linkedin.com/in/arnaldo-henrique-miranda/)
 Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in/cebraga/](https://www.linkedin.com/in/cebraga/)
 Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
+Daniel Mariz | Developer | [https://www.linkedin.com/in/danielmariz/](https://www.linkedin.com/in/danielmariz/)
 Daniel Serra | Business Analyst | [https://www.linkedin.com/in/danielnaimserra/](https://www.linkedin.com/in/danielnaimserra/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
 Fabricio Crema | Support Engineer | [https://www.linkedin.com/in/fabriciocrema/](https://www.linkedin.com/in/fabriciocrema/)
