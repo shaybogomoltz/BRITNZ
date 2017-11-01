@@ -22,6 +22,7 @@ Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossar
 Fernando Paz | Developer| [https://www.linkedin.com/in/fernando-paz/](https://www.linkedin.com/in/fernando-paz/)
 Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](https://www.linkedin.com/in/uderson1/)
 Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](https://www.linkedin.com/in/gavilches/)
+Leonardo Machado | Developer | [https://www.linkedin.com/in/lmachado/](https://www.linkedin.com/in/lmachado/)
 Lucas Nishimura | Support Analyst| [https://www.linkedin.com/in/lucas-nishimura/](https://www.linkedin.com/in/lucas-nishimura/)
 Maikel Penz | Database Administrator| [https://www.linkedin.com/in/maikel-alexsander-penz-31050577/](https://www.linkedin.com/in/maikel-alexsander-penz-31050577/)
 Marcelo dos Anjos | Business Analyst| [https://www.linkedin.com/in/marcelotdosanjos/](https://www.linkedin.com/in/marcelotdosanjos/)
