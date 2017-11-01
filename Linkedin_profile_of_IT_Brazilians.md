@@ -33,3 +33,4 @@ Ricardo Rauber | Software Architech| [https://www.linkedin.com/in/ricardo-rauber
 Shay Camlot Bogomoltz | IT Consultancy| [https://www.linkedin.com/in/shaycb/](https://www.linkedin.com/in/shaycb/)
 Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linkedin.com/in/nessalaluna)
 Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-silva-50963923/](https://www.linkedin.com/in/vinicius-da-silva-50963923/)
+Vitor Diniz | Developer | [https://www.linkedin.com/in/vitordiniz/](https://www.linkedin.com/in/vitordiniz/)
