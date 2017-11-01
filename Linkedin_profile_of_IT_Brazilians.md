@@ -24,7 +24,8 @@ Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](htt
 Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](https://www.linkedin.com/in/gavilches/)
 Leonardo Machado | Developer | [https://www.linkedin.com/in/lmachado/](https://www.linkedin.com/in/lmachado/)
 Lucas Nishimura | Support Analyst| [https://www.linkedin.com/in/lucas-nishimura/](https://www.linkedin.com/in/lucas-nishimura/)
-Maikel Penz | Database Administrator| [https://www.linkedin.com/in/maikel-alexsander-penz-31050577/](https://www.linkedin.com/in/maikel-alexsander-penz-31050577/)
+Lucas Possamai | Database | [https://www.linkedin.com/in/lucaspossamai/](https://www.linkedin.com/in/lucaspossamai/)
+Maikel Penz | Database | [https://www.linkedin.com/in/maikel-alexsander-penz-31050577/](https://www.linkedin.com/in/maikel-alexsander-penz-31050577/)
 Marcelo dos Anjos | Business Analyst| [https://www.linkedin.com/in/marcelotdosanjos/](https://www.linkedin.com/in/marcelotdosanjos/)
 Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
 Maryene Muniz | QA| [https://www.linkedin.com/in/maryenemuniz/](https://www.linkedin.com/in/maryenemuniz/)
@@ -37,4 +38,3 @@ Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-s
 Vitor Diniz | Developer | [https://www.linkedin.com/in/vitordiniz/](https://www.linkedin.com/in/vitordiniz/)
 William G. Comnisky | Developer | [https://www.linkedin.com/in/wcomnisky/](https://www.linkedin.com/in/wcomnisky/)
 Yuri Cardoso | Developer | [https://www.linkedin.com/in/yuricardoso/](https://www.linkedin.com/in/yuricardoso/)
-
