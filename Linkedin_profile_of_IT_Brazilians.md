@@ -18,6 +18,7 @@ Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-
 Daniel Mariz | Developer | [https://www.linkedin.com/in/danielmariz/](https://www.linkedin.com/in/danielmariz/)
 Daniel Serra | Business Analyst | [https://www.linkedin.com/in/danielnaimserra/](https://www.linkedin.com/in/danielnaimserra/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
+Eduardo Ponzoni | Integration Lead | [https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/](https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/) 
 Fabricio Crema | Support Engineer | [https://www.linkedin.com/in/fabriciocrema/](https://www.linkedin.com/in/fabriciocrema/)
 Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossard/](https://www.linkedin.com/in/fcfrossard/)
 Fernando Paz | Developer| [https://www.linkedin.com/in/fernando-paz/](https://www.linkedin.com/in/fernando-paz/)
