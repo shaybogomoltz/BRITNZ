@@ -42,6 +42,7 @@ Paula Teixeira | Support Analyst | [https://www.linkedin.com/in/paulateixeira/](
 Rafael Paiva | Developer| [https://www.linkedin.com/in/rafaelfpaiva/](https://www.linkedin.com/in/rafaelfpaiva/)
 Rebecca Pinheiro | Developer| [https://www.linkedin.com/in/rebecca-pinheiro/](https://www.linkedin.com/in/rebecca-pinheiro/)
 Ricardo Rauber | Software Architech| [https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/](https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/)
+Samir Itani | Support Analyst | [https://www.linkedin.com/in/sitani/](https://www.linkedin.com/in/sitani/)
 Shay Camlot Bogomoltz | IT Consultancy| [https://www.linkedin.com/in/shaycb/](https://www.linkedin.com/in/shaycb/)
 Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linkedin.com/in/nessalaluna)
 Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-silva-50963923/](https://www.linkedin.com/in/vinicius-da-silva-50963923/)
