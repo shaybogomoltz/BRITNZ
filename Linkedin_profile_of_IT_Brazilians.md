@@ -26,6 +26,7 @@ Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossar
 Fernando Paz | Developer| [https://www.linkedin.com/in/fernando-paz/](https://www.linkedin.com/in/fernando-paz/)
 Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](https://www.linkedin.com/in/uderson1/)
 Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](https://www.linkedin.com/in/gavilches/)
+Gleisser Santos | Developer | [https://www.linkedin.com/in/gleisser/](https://www.linkedin.com/in/gleisser/)
 José Ricardo Coelho | Developer |[https://www.linkedin.com/in/josercoelho/](https://www.linkedin.com/in/josercoelho/)
 Leander Seefeld | Developer | [https://www.linkedin.com/in/leanseefeld/](https://www.linkedin.com/in/leanseefeld/)
 Leonardo Gomes de Oliveira | Developer | [https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a](https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a)
