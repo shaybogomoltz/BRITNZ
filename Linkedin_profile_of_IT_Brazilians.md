@@ -13,6 +13,7 @@ Name | Area | Linkedin
 --- | --- | ---
 Alan Rodrigues Soares | Developer | [https://www.linkedin.com/in/alanrsoares/](https://www.linkedin.com/in/alanrsoares/)
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
+Andrei Shiniti Nakagawa | Developer | [https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/](https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/)
 Arnaldo Henrique Miranda | QA | [https://www.linkedin.com/in/arnaldo-henrique-miranda/](https://www.linkedin.com/in/arnaldo-henrique-miranda/)
 Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in/cebraga/](https://www.linkedin.com/in/cebraga/)
 Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
