@@ -1,0 +1,2957 @@
+# Companies Accredited
+
+This was a scrapy for the [gov website]()(https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/accredited-employers-list) on 3/Nov/2017. Please use this with caution, because it can be out of date.
+
+If you get a job from any company from this list, it will help you about the visa.
+
+Name | Area | Link
+--- | --- | ---
+
+				2 Degrees Mobile Ltd | 
+				Telecommunications |
+				(https://www.2degreesmobile.co.nz)
+				[www.2degreesmobile.co.nz]
+
+				8i | 
+				Digital Media |
+				(http://8i.com)
+				[8i.com]
+
+				A G Foley | 
+				Water, Gas, Electricity |
+				(http://www.foleys.co.nz)
+				[www.foleys.co.nz]
+
+				AS Wilcox &amp; Sons Ltd | 
+				Agriculture, Forestry and Fishing |
+				(http://www.wilcoxgoodness.co.nz)
+				[www.wilcoxgoodness.co.nz]
+
+				A1 Kiwi Cutters and Drillers LTD | 
+				Construction &amp; Building |
+				(http://www.kiwicutters.co.nz)
+				[www.kiwicutters.co.nz]
+
+				AA Insurance Limited | 
+				Accounting, Finance &amp; Legal |
+				(https://www.aainsurance.co.nz)
+				[www.aainsurance.co.nz]
+
+				AAPC Properties Pty Limited - New Zealand Branch | 
+				Hospitality &amp; Tourism |
+				(http://www.accorhotels.comgb/new-zealand-fiji/index.shtml)
+				[www.accorhotels.comgb]
+
+				ABB Limited | 
+				Engineering |
+				(http://new.abb.comnz)
+				[new.abb.comnz]
+
+				Absolute IT | 
+				Human Resources |
+				(https://www.absoluteit.co.nz)
+				[www.absoluteit.co.nz]
+
+				Accent on Construction Ltd | 
+				Construction &amp; Building |
+				(http://accentonconstruction.co.nz)
+				[accentonconstruction.co.nz]
+
+				Accident Compensation Corporation (ACC) | 
+				Government (central) |
+				(http://www.acc.co.nz)
+				[www.acc.co.nz]
+
+				Ace Air Conditioning | 
+				Engineering |
+				(http://www.aceair.co.nz)
+				[www.aceair.co.nz]
+
+				ACI Operations NZ Limited | 
+				Manufacturing |
+				(http://www.o-i.com)
+				[www.o-i.com]
+
+				ACM New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(https://www.acmnz.co.nz)
+				[www.acmnz.co.nz]
+
+				Acrow Limited | 
+				Construction &amp; Building |
+				(http://www.acrow.co.nz)
+				[www.acrow.co.nz]
+
+				Adecco Personnel Limited | 
+				Administration &amp; Customer Service |
+				(https://www.adecco.co.nz)
+				[www.adecco.co.nz]
+
+				ADT Security Limited | 
+				Other |
+				(https://www.adtsecurity.co.nz)
+				[www.adtsecurity.co.nz]
+
+				AECOM New Zealand Limited | 
+				Engineering |
+				(http://www.aecom.com)
+				[www.aecom.com]
+
+				AGC Pte Ltd | 
+				Telecommunications |
+				(http://www.agcnetworks.com)
+				[www.agcnetworks.com]
+
+				AgResearch Limited | 
+				Engineering |
+				(http://www.agresearch.co.nz)
+				[www.agresearch.co.nz]
+
+				AIA International Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.aia.co.nzen/index.html)
+				[www.aia.co.nzen]
+
+				AIG Insurance New Zealand | 
+				Accounting, Finance &amp; Legal |
+				(http://www.aig.com)
+				[www.aig.com]
+
+				Air New Zealand Ltd | 
+				Administration &amp; Customer Service |
+				(https://www.airnewzealand.co.nz)
+				[www.airnewzealand.co.nz]
+
+				Airways Corporation of New Zealand | 
+				Government (central) |
+				(http://www.airways.co.nz)
+				[www.airways.co.nz]
+
+				Airwork Holdings Limited | 
+				Engineering |
+				(http://www.airwork.co.nz)
+				[www.airwork.co.nz]
+
+				Allegis Group New Zealand Ltd | 
+				Human Resources |
+				(https://www.allegisgroup.comen-nz)
+				[www.allegisgroup.comen-nz]
+
+				Allfields Customised Solutions Ltd | 
+				Information Technology |
+				(http://www.allfields.co.nz)
+				[www.allfields.co.nz]
+
+				Allied Petroleum Limited | 
+				Water, Gas, Electricity |
+				(http://alliedpetroleum.co.nz)
+				[alliedpetroleum.co.nz]
+
+				Alpha Interiors Ltd | 
+				Construction &amp; Building |
+				(http://www.alphainteriors.co.nz)
+				[www.alphainteriors.co.nz]
+
+				Alsynite NZ Limited | 
+				Manufacturing |
+				(http://www.alsynite.co.nz)
+				[www.alsynite.co.nz]
+
+				Altex Coatings Limited | 
+				Manufacturing |
+				(https://altexcoatings.co.nzfrontend/index.cfm)
+				[altexcoatings.co.nzfrontend]
+
+				Altitude Aerospace Interiors | 
+				Engineering |
+				(http://www.aimaltitude.com)
+				[www.aimaltitude.com]
+
+				Amcor Flexibles NZ Ltd | 
+				Manufacturing |
+				(https://www.amcor.com/home)
+				[www.amcor.com]
+
+				AML Limited | 
+				Construction &amp; Building | |
+                
+				Amphenol Phitek Ltd ta Phiteck Systems | 
+				Science &amp; Technology |
+				(http://phitek.com)
+				[phitek.com]
+
+				Amplifon NZ Limited (Bay Audiology) | 
+				Healthcare |
+				(http://www.bayaudiology.co.nz)
+				[www.bayaudiology.co.nz]
+
+				Animates New Zealand Holdings Limited | 
+				Retail |
+				(http://www.animates.co.nz)
+				[www.animates.co.nz]
+
+				ANZ Bank New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.anz.co.nzpersonal)
+				[www.anz.co.nzpersonal]
+
+				Aon New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(https://www.aon.co.nz)
+				[www.aon.co.nz]
+
+				APL Kwikform Pty Limited | 
+				Construction &amp; Building |
+				(http://www.aplkwikform.co.nz)
+				[www.aplkwikform.co.nz]
+
+				Apl Kwikform Pty Limited Ta United Scaffolding | 
+				Construction &amp; Building |
+				(http://www.aplkwikform.co.nz)
+				[www.aplkwikform.co.nz]
+
+				Ara Institute of Canterbury | 
+				Education &amp; Training |
+				(http://www.ara.ac.nz)
+				[www.ara.ac.nz]
+
+				ARABAC (Aerial Abseil Access Ltd) | 
+				Hospitality &amp; Tourism |
+				(http://arabac.co.nz)
+				[arabac.co.nz]
+
+				ARANZ Geo Limited | 
+				Information Technology |
+				(http://www.aranzgeo.com)
+				[www.aranzgeo.com]
+
+				ARANZ Medical | 
+				Biotechnology |
+				(http://www.aranzmedical.com)
+				[www.aranzmedical.com]
+
+				Archibald &amp; Shorter Roverland Limited | 
+				Retail |
+				(http://archibaldandshorter.co.nz)
+				[archibaldandshorter.co.nz]
+
+				Argus Fire Systems Service Ltd | 
+				Engineering |
+				(http://www.argusfire.co.nz)
+				[www.argusfire.co.nz]
+
+				Arrow International NZ Ltd | 
+				Construction &amp; Building |
+				(http://arrowinternational.co.nz)
+				[arrowinternational.co.nz]
+
+				Asaleo Care New Zealand Limited | 
+				Manufacturing |
+				(https://www.asaleocare.com)
+				[www.asaleocare.com]
+
+				ASB Bank | 
+				Accounting, Finance &amp; Legal |
+				(https://www.asb.co.nz)
+				[www.asb.co.nz]
+
+				Ascender New Zealand Ltd | 
+				Human Resources |
+				(https://www.ascenderhcm.com)
+				[www.ascenderhcm.com]
+
+				ASSA ABLOY New Zealand Limited | 
+				High Value Manufacturing |
+				(http://www.assaabloy.co.nz)
+				[www.assaabloy.co.nz]
+
+				Assurity Consulting Ltd | 
+				Information Technology |
+				(http://assurity.co.nz)
+				[assurity.co.nz]
+
+				AsureQuality | 
+				Biotechnology |
+				(https://www.asurequality.com)
+				[www.asurequality.com]
+
+				ATL Group Ltd | 
+				Healthcare |
+				(http://www.atlgroup.co.nz)
+				[www.atlgroup.co.nz]
+
+				Atlantic &amp; Pacific Business Travel Limited | 
+				Sales &amp; Marketing |
+				(http://www.apx.co.nz)
+				[www.apx.co.nz]
+
+				Atlas Concrete Limited | 
+				Manufacturing |
+				(https://atlasconcrete.co.nz)
+				[atlasconcrete.co.nz]
+
+				Auckland City BMW Ltd | 
+				Retail |
+				(http://www.aucklandcitybmw.com)
+				[www.aucklandcitybmw.com]
+
+				Auckland Council | 
+				Government (local) |
+				(http://www.aucklandcouncil.govt.nz)
+				[www.aucklandcouncil.govt.nz]
+
+				Auckland District Health Board (Auckland DHB) | 
+				Healthcare |
+				(http://www.adhb.health.nz)
+				[www.adhb.health.nz]
+
+				Auckland Regional Chamber of Commerce &amp; Industry (Incorporated) | 
+				Administration &amp; Customer Service |
+				(http://www.aucklandchamber.co.nz)
+				[www.aucklandchamber.co.nz]
+
+				Auckland Stonemasons Limited | 
+				Construction &amp; Building |
+				(http://www.stonemasons.co.nz)
+				[www.stonemasons.co.nz]
+
+				Auckland Transport | 
+				Government (local) |
+				(https://at.govt.nz)
+				[at.govt.nz]
+
+				Auckland UniServices Ltd | 
+				Education &amp; Training |
+				(http://www.uniservices.co.nz)
+				[www.uniservices.co.nz]
+
+				Auckland University of Technology | 
+				Education &amp; Training |
+				(http://www.aut.ac.nz)
+				[www.aut.ac.nz]
+
+				Augustus Services Limited T/A Jasmax | 
+				Construction &amp; Building |
+				(http://www.jasmax.com)
+				[www.jasmax.com]
+
+				Aura Information Security - powered by Kordia | 
+				Information Technology |
+				(https://www.aurainfosec.com)
+				[www.aurainfosec.com]
+
+				Aurecon New Zealand Limited | 
+				Engineering |
+				(http://www.aurecongroup.com)
+				[www.aurecongroup.com]
+
+				Aviat Networks (NZ) Ltd | 
+				Telecommunications |
+				(http://aviatnetworks.com)
+				[aviatnetworks.com]
+
+				Babich Wines Ltd | 
+				Agriculture, Forestry and Fishing |
+				(http://www.babichwines.co.nz)
+				[www.babichwines.co.nz]
+
+				Baker Hughes New Zealand Pty Limited | 
+				Other |
+				(https://www.bakerhughes.com)
+				[www.bakerhughes.com]
+
+				Ballance Agri-Nutrients Limited | 
+				Manufacturing |
+				(http://www.ballance.co.nz)
+				[www.ballance.co.nz]
+
+				Bank of New Zealand (BNZ) | 
+				Accounting, Finance &amp; Legal |
+				(https://www.bnzcareers.co.nz)
+				[www.bnzcareers.co.nz]
+
+				Base Up (2012) Contracting | 
+				Construction &amp; Building |
+				(http://baseup.co.nz)
+				[baseup.co.nz]
+
+				Baxter Healthcare Limited | 
+				Healthcare |
+				(http://www.baxter.co.nz)
+				[www.baxter.co.nz]
+
+				BDO Auckland Ltd | 
+				Accounting, Finance &amp; Legal |
+				(https://www.bdo.nz)
+				[www.bdo.nz]
+
+				Beca Group Limited | 
+				Engineering |
+				(http://www.beca.com)
+				[www.beca.com]
+
+				Bell Gully | 
+				Accounting, Finance &amp; Legal |
+				(https://www.bellgully.com)
+				[www.bellgully.com]
+
+				Bidfood New Zealand Limited | 
+				Transport &amp; Logistics |
+				(http://www.bidfood.co.nz)
+				[www.bidfood.co.nz]
+
+				Big Chill Distribution Limited | 
+				Transport &amp; Logistics |
+				(http://www.bigchill.co.nz)
+				[www.bigchill.co.nz]
+
+				BMW New Zealand Limited | 
+				Retail |
+				(http://www.bmw.co.nz)
+				[www.bmw.co.nz]
+
+				Bollore Logistics | 
+				Transport &amp; Logistics |
+				(http://www.bollore-logistics.com)
+				[www.bollore-logistics.com]
+
+				Brambles New Zealand Limited | 
+				Transport &amp; Logistics |
+				(http://www.brambles.com)
+				[www.brambles.com]
+
+				Brand Developers Limited | 
+				Manufacturing |
+				(http://www.branddevelopers.co.nz)
+				[www.branddevelopers.co.nz]
+
+				Brazier Scaffolding Ltd | 
+				Construction &amp; Building |
+				(http://www.brazier.co.nz)
+				[www.brazier.co.nz]
+
+				Brewer Joinery Limited | 
+				Manufacturing |
+				(https://www.aluminiumjoineryhamilton.co.nz)
+				[www.aluminiumjoineryhamilton.co.nz]
+
+				Bridgestone New Zealand Limited | 
+				Manufacturing |
+				(http://www.bridgestonetyrecentre.co.nz)
+				[www.bridgestonetyrecentre.co.nz]
+
+				Bridon New Zealand Ltd | 
+				Manufacturing |
+				(http://www.bridon.co.nz)
+				[www.bridon.co.nz]
+
+				Broadspectrum  (New Zealand) Limited | 
+				Engineering |
+				(http://www.broadspectrum.com)
+				[www.broadspectrum.com]
+
+				Brosnan Holdings Limited | 
+				Construction &amp; Building |
+				(http://www.brosnan.co.nz)
+				[www.brosnan.co.nz]
+
+				Brownrigg Agriculture Group Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.brownrigg.co.nz)
+				[www.brownrigg.co.nz]
+
+				Buchanan MacDonald LImited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.bmca.co.nz)
+				[www.bmca.co.nz]
+
+				Buddle Findlay | 
+				Accounting, Finance &amp; Legal |
+				(https://www.buddlefindlay.com)
+				[www.buddlefindlay.com]
+
+				Butch Pet Foods Limited | 
+				Manufacturing |
+				(http://nz.butch.co.nz)
+				[nz.butch.co.nz]
+
+				C W F Hamilton &amp; Co Limited | 
+				High Value Manufacturing |
+				(http://www.hamiltonjet.com)
+				[www.hamiltonjet.com]
+
+				CablePrice(NZ) Ltd | 
+				Manufacturing |
+				(http://www.cableprice.co.nz)
+				[www.cableprice.co.nz]
+
+				Calder Stewart Industries | 
+				Construction &amp; Building |
+				(http://www.calderstewart.co.nz)
+				[www.calderstewart.co.nz]
+
+				Calibre Consulting Limited | 
+				Engineering |
+				(http://www.calibreconsulting.co)
+				[www.calibreconsulting.co]
+
+				Callaghan Innovation | 
+				Engineering |
+				(http://www.callaghaninnovation.govt.nz)
+				[www.callaghaninnovation.govt.nz]
+
+				Camelspace AKL Limited/Camelspace CHC Limited | 
+				Other |
+				(http://camelspace.com)
+				[camelspace.com]
+
+				Canterbury District Health Board (Canterbury DHB) | 
+				Healthcare |
+				(http://www.cdhb.health.nz)
+				[www.cdhb.health.nz]
+
+				Canterbury Recruitment | 
+				Recruitment |
+				(http://www.canterburyrecruitment.co.nz)
+				[www.canterburyrecruitment.co.nz]
+
+				Canterbury Regional Council (ECAN) | 
+				Government (local) |
+				(http://www.ecan.govt.nz)
+				[www.ecan.govt.nz]
+
+				Capital &amp; Coast District Health Board (Capital &amp; Coast DHB) | 
+				Healthcare |
+				(http://www.ccdhb.org.nz)
+				[www.ccdhb.org.nz]
+
+				Cardinal Logistics Ltd | 
+				Transport &amp; Logistics |
+				(http://www.cardinallogistics.co.nz)
+				[www.cardinallogistics.co.nz]
+
+				Carglass (NZ) Limited t/a Smith&amp;Smith | 
+				Other |
+				(http://www.smithandsmith.co.nz)
+				[www.smithandsmith.co.nz]
+
+				Carter Holt Harvey Limited | 
+				Manufacturing |
+				(http://chh.com)
+				[chh.com]
+
+				CBL Insurance Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.cblinsurance.com)
+				[www.cblinsurance.com]
+
+				Century Drilling &amp; Energy Services (NZ) Limited | 
+				Engineering |
+				(http://www.mbcentury.com)
+				[www.mbcentury.com]
+
+				CFR Line Limited | 
+				Transport &amp; Logistics |
+				(http://www.cfrlinegroup.com)
+				[www.cfrlinegroup.com]
+
+				Chapman Tripp | 
+				Accounting, Finance &amp; Legal |
+				(http://www.chapmantripp.com)
+				[www.chapmantripp.com]
+
+				Chorus New Zealand Limited | 
+				Telecommunications |
+				(https://www.chorus.co.nz)
+				[www.chorus.co.nz]
+
+				Christchurch City Council | 
+				Government (local) |
+				(http://www.ccc.govt.nz)
+				[www.ccc.govt.nz]
+
+				Cigna Life Insurance NZ Ltd | 
+				Accounting, Finance &amp; Legal |
+				(http://www.cigna.co.nz)
+				[www.cigna.co.nz]
+
+				City Care Ltd | 
+				Construction &amp; Building |
+				(http://www.citycare.co.nz)
+				[www.citycare.co.nz]
+
+				Civil Aviation Authority of New Zealand | 
+				Government (central) |
+				(http://www.caa.govt.nz)
+				[www.caa.govt.nz]
+
+				Clarkson Electrical | 
+				Construction &amp; Building |
+				(http://clarksons.co.nz)
+				[clarksons.co.nz]
+
+				Coca-Cola Amatil NZ LTD | 
+				Food and Beverages Manufacturing |
+				(https://ccamatil.co.nz)
+				[ccamatil.co.nz]
+
+				Colmar &amp; Brunton Research Limited | 
+				Advertising, Media, PR |
+				(http://www.colmarbrunton.co.nz)
+				[www.colmarbrunton.co.nz]
+
+				Commerce Commission | 
+				Government (central) |
+				(http://www.comcom.govt.nz)
+				[www.comcom.govt.nz]
+
+				Compac Sorting Equipment | 
+				Manufacturing |
+				(http://www.compacsort.com)
+				[www.compacsort.com]
+
+				Compac Technologies Limited | 
+				Information Technology |
+				(http://www.compacsort.com)
+				[www.compacsort.com]
+
+				Computer Fanatics Limited | 
+				Information Technology |
+				(http://www.cfl.co.nz)
+				[www.cfl.co.nz]
+
+				Connell Contractors Limited | 
+				Construction &amp; Building |
+				(http://www.connellcontractors.co.nz)
+				[www.connellcontractors.co.nz]
+
+				Connetics Limited | 
+				Engineering |
+				(http://www.connetics.co.nz)
+				[www.connetics.co.nz]
+
+				Conrad Properties Group Limited | 
+				Other |
+				(http://www.conradproperties.com)
+				[www.conradproperties.com]
+
+				Constellation Brands New Zealand Limited | 
+				Manufacturing |
+				(http://www.constellationnz.com)
+				[www.constellationnz.com]
+
+				Consult Recruitment Ltd | 
+				Recruitment |
+				(http://www.consultrecruitment.co.nz)
+				[www.consultrecruitment.co.nz]
+
+				Contact Centres | 
+				Telecommunications |
+				(http://contactcentres.co.nz)
+				[contactcentres.co.nz]
+
+				Contact Energy | 
+				Water, Gas, Electricity |
+				(https://contact.co.nz)
+				[contact.co.nz]
+
+				Continuous Spouting (Auckland) Limited | 
+				Manufacturing |
+				(http://www.continuous.co.nz)
+				[www.continuous.co.nz]
+
+				Cornell Institute of Business &amp; Technology Limited | 
+				Education &amp; Training |
+				(http://www.cornell.ac.nz)
+				[www.cornell.ac.nz]
+
+				Counties Manukau District Health Board (Counties Manukau DHB) | 
+				Healthcare |
+				(http://www.countiesmanukau.health.nz)
+				[www.countiesmanukau.health.nz]
+
+				CPB Contractors PTY Limited | 
+				Construction &amp; Building |
+				(http://www.cpbcon.com.au)
+				[www.cpbcon.com.au]
+
+				Crombie Lockwood (NZ) Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.crombielockwood.co.nz)
+				[www.crombielockwood.co.nz]
+
+				Crown Equipment Limited | 
+				Engineering |
+				(http://www.crown.com)
+				[www.crown.com]
+
+				CRS Software | 
+				Information Technology |
+				(http://www.crssoftware.co.nz)
+				[www.crssoftware.co.nz]
+
+				Cubic Defence NZ Ltd | 
+				High Value Manufacturing |
+				(http://www.cubic.com)
+				[www.cubic.com]
+
+				Culham Engineering Company Limited | 
+				Manufacturing |
+				(http://culham.co.nz)
+				[culham.co.nz]
+
+				Cunningham Constructions Ltd | 
+				Engineering |
+				(http://cunningham.construction)
+				[cunningham.construction]
+
+				Cunningham Lindsey New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(https://www.cunninghamlindsey.comglobal/nz)
+				[www.cunninghamlindsey.comglobal]
+
+				D &amp; H Steel Construction Limited | 
+				Engineering |
+				(http://www.dhsteel.co.nz)
+				[www.dhsteel.co.nz]
+
+				DAC Beachcroft New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.dacbeachcroft.com)
+				[www.dacbeachcroft.com]
+
+				Datacom Systems Ltd | 
+				Information Technology |
+				(http://www.datacom.co.nz)
+				[www.datacom.co.nz]
+
+				Datacom Systems Wellington Ltd | 
+				Information Technology | |
+                
+				Datamine Limited | 
+				Information Technology |
+				(http://www.datamine-it.com)
+				[www.datamine-it.com]
+
+				Davanti Consulting Limited | 
+				Information Technology |
+				(https://www.davanti.co.nz)
+				[www.davanti.co.nz]
+
+				DB Breweries Ltd | 
+				Manufacturing |
+				(http://www.db.co.nz)
+				[www.db.co.nz]
+
+				DDB New Zealand Limited | 
+				Advertising, Media, PR |
+				(http://www.ddb.co.nz#/home)
+				[www.ddb.co.nz]
+
+				DeLaval Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.delaval.com)
+				[www.delaval.com]
+
+				Delegat Limited | 
+				Manufacturing |
+				(http://www.delegats.co.nz)
+				[www.delegats.co.nz]
+
+				Deloitte Asparona Limited | 
+				Science &amp; Technology |
+				(http://www.asparona.com)
+				[www.asparona.com]
+
+				Deloitte Limited | 
+				Accounting, Finance &amp; Legal |
+				(https://www2.deloitte.com)
+				[www2.deloitte.com]
+
+				Delta Utility Services Limited | 
+				Water, Gas, Electricity |
+				(http://www.thinkdelta.co.nz)
+				[www.thinkdelta.co.nz]
+
+				Dempsey Wood Civil Ltd | 
+				Engineering |
+				(http://www.dempseywood.co.nz)
+				[www.dempseywood.co.nz]
+
+				Dental Studio Mission Ltd | 
+				Manufacturing | |
+                
+				Department of Corrections | 
+				Government (central) |
+				(http://www.corrections.govt.nz)
+				[www.corrections.govt.nz]
+
+				Department of Internal Affairs (DIA) | 
+				Government (central) |
+				(http://www.dia.govt.nz)
+				[www.dia.govt.nz]
+
+				DHL Express (New Zealand) Limited | 
+				Transport &amp; Logistics |
+				(http://www.dhl.com)
+				[www.dhl.com]
+
+				DHL Logistics (New Zealand) | 
+				Transport &amp; Logistics |
+				(http://www.dhl.com)
+				[www.dhl.com]
+
+				Dimension Data NZ Ltd | 
+				Information Technology |
+				(http://www2.dimensiondata.com)
+				[www2.dimensiondata.com]
+
+				Douglas Pharmaceuticals ltd | 
+				Biotechnology |
+				(http://www.douglas.co.nz)
+				[www.douglas.co.nz]
+
+				Downer NZ | 
+				Construction &amp; Building |
+				(http://www.downergroup.co.nz)
+				[www.downergroup.co.nz]
+
+				Downer Utilities New Zealand Ltd | 
+				Engineering |
+				(http://www.downergroup.co.nz)
+				[www.downergroup.co.nz]
+
+				Doyle Sails Limited | 
+				Manufacturing |
+				(http://www.doylesails.co.nz)
+				[www.doylesails.co.nz]
+
+				Duncan Cotterill Lawyers | 
+				Accounting, Finance &amp; Legal |
+				(https://duncancotterill.com)
+				[duncancotterill.com]
+
+				Dunedin City Council | 
+				Government (local) |
+				(http://www.dunedin.govt.nz)
+				[www.dunedin.govt.nz]
+
+				Eagle Technology Group Ltd | 
+				Information Technology |
+				(http://www.eagle.co.nz)
+				[www.eagle.co.nz]
+
+				Earth Stability Limited | 
+				Construction &amp; Building |
+				(http://www.earthstability.co.nz)
+				[www.earthstability.co.nz]
+
+				Ebbett Waikato Ltd | 
+				Retail |
+				(http://ebbett.nz)
+				[ebbett.nz]
+
+				Ebert Construction Limited | 
+				Construction &amp; Building |
+				(http://www.ebert.co.nz)
+				[www.ebert.co.nz]
+
+				Education Payroll Limited | 
+				Education &amp; Training |
+				(http://educationpayroll.co.nz)
+				[educationpayroll.co.nz]
+
+				Electrix Limited | 
+				Water, Gas, Electricity |
+				(http://www.electrix.co.nz)
+				[www.electrix.co.nz]
+
+				Endace Limited | 
+				Engineering |
+				(https://www.endace.com)
+				[www.endace.com]
+
+				Energy Efficiency and Conservation Authority (EECA) | 
+				Government (central) |
+				(https://www.eeca.govt.nz)
+				[www.eeca.govt.nz]
+
+				Energyworks Limited | 
+				Administration &amp; Customer Service |
+				(https://www.energyworksgroup.com.au)
+				[www.energyworksgroup.com.au]
+
+				Engineering Control Limited | 
+				Engineering |
+				(http://www.ecl.co.nz)
+				[www.ecl.co.nz]
+
+				Enterprise Recruitment | 
+				Information Technology |
+				(http://www.enterprise.co.nz)
+				[www.enterprise.co.nz]
+
+				Environment Southland | 
+				Government (local) |
+				(http://www.es.govt.nz)
+				[www.es.govt.nz]
+
+				Environmental Protection Authority (EPA) | 
+				Government (central) |
+				(http://www.epa.govt.nz)
+				[www.epa.govt.nz]
+
+				EQ Project Services Limited T/a Jim the Builder) | 
+				Construction &amp; Building |
+				(http://www.jimthebuilder.co.nz)
+				[www.jimthebuilder.co.nz]
+
+				Ernst &amp; Young Group Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.ey.com)
+				[www.ey.com]
+
+				EROAD Limited | 
+				Transport &amp; Logistics |
+				(http://www.eroad.co.nz)
+				[www.eroad.co.nz]
+
+				European Stone Masons Ltd | 
+				Construction &amp; Building |
+				(http://www.europeanstonemasons.co.nz)
+				[www.europeanstonemasons.co.nz]
+
+				Evolution Traffic Management Ltd | 
+				Engineering |
+				(http://evoroadservices.co.nz)
+				[evoroadservices.co.nz]
+
+				Exlair  NZ Ltd | 
+				Engineering |
+				(http://www.ashair.co.nz)
+				[www.ashair.co.nz]
+
+				Fairfax New Zealand Limited | 
+				Advertising, Media, PR |
+				(http://www.fairfaxmedia.co.nz)
+				[www.fairfaxmedia.co.nz]
+
+				Far North District Council | 
+				Government (local) |
+				(http://www.fndc.govt.nzhome)
+				[www.fndc.govt.nzhome]
+
+				Farro Fresh Food Limited | 
+				Retail |
+				(http://www.farrofresh.co.nz)
+				[www.farrofresh.co.nz]
+
+				Federal Express Pacific, LLC | 
+				Transport &amp; Logistics |
+				(http://www.fedex.comnz)
+				[www.fedex.comnz]
+
+				Figured Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.figured.com)
+				[www.figured.com]
+
+				Financial Markets Authority | 
+				Government (central) |
+				(http://fma.govt.nz)
+				[fma.govt.nz]
+
+				FIS Systems NZ Limited | 
+				Information Technology |
+				(https://www.sungard.com)
+				[www.sungard.com]
+
+				Fiserv New Zealand Limited | 
+				Information Technology |
+				(http://jobs.fiserv.co.nz)
+				[jobs.fiserv.co.nz]
+
+				Fisher &amp; Paykel Healthcare Limited | 
+				High Value Manufacturing |
+				(https://www.fphcare.com)
+				[www.fphcare.com]
+
+				Fisher and Paykel Appliances | 
+				High Value Manufacturing |
+				(https://www.fisherpaykel.comnzcompany.html)
+				[www.fisherpaykel.comnzcompany.html]
+
+				Fishpond Limited | 
+				Retail |
+				(http://www.fishpond.com)
+				[www.fishpond.com]
+
+				Fletcher Building Ltd | 
+				Construction &amp; Building |
+				(http://www.fletcherbuilding.com)
+				[www.fletcherbuilding.com]
+
+				Fletcher Construction | 
+				Construction &amp; Building |
+				(http://www.fletcherconstruction.co.nz)
+				[www.fletcherconstruction.co.nz]
+
+				Flexible Learning Network t/a Kineo Pacific | 
+				Information Technology |
+				(http://www.kineo.comnz)
+				[www.kineo.comnz]
+
+				Flintfox | 
+				Information Technology |
+				(https://www.flintfox.com)
+				[www.flintfox.com]
+
+				FNZ Limited | 
+				Information Technology |
+				(https://www.fnz.com)
+				[www.fnz.com]
+
+				Fonterra Co-operative Group Limited | 
+				Manufacturing |
+				(http://www3.fonterra.com)
+				[www3.fonterra.com]
+
+				Foodstuffs North Island Limited | 
+				Retail |
+				(https://www.foodstuffs.co.nz)
+				[www.foodstuffs.co.nz]
+
+				Forme Skin and Body Limited | 
+				Healthcare |
+				(http://www.formespa.co.nz)
+				[www.formespa.co.nz]
+
+				Framecad Ltd | 
+				Information Technology |
+				(https://framecad.comen/home)
+				[framecad.comen]
+
+				Freshmax NZ Limited | 
+				Transport &amp; Logistics |
+				(http://www.freshmax.co.nz)
+				[www.freshmax.co.nz]
+
+				Fronde Systems Group Limited | 
+				Information Technology |
+				(http://www.fronde.com)
+				[www.fronde.com]
+
+				Fuji Xerox New Zealand Limited | 
+				Information Technology |
+				(http://www.fujixerox.co.nz)
+				[www.fujixerox.co.nz]
+
+				Fujitsu New Zealand Limited | 
+				Information Technology |
+				(http://www.fujitsu.comnz)
+				[www.fujitsu.comnz]
+
+				Fully Equipped Limited | 
+				Manufacturing |
+				(http://www.fullyequipped.co.nz)
+				[www.fullyequipped.co.nz]
+
+				Fulton Hogan | 
+				Engineering |
+				(http://www.fultonhogan.com)
+				[www.fultonhogan.com]
+
+				G Mundy Construction | 
+				Construction &amp; Building | |
+                
+				Gallagher Group Limited | 
+				High Value Manufacturing |
+				(https://www.gallaghergroup.co.nz)
+				[www.gallaghergroup.co.nz]
+
+				Garra International Ltd | 
+				Retail |
+				(http://www.garrainternational.com)
+				[www.garrainternational.com]
+
+				GE &amp; KM Coxon | 
+				Agriculture, Forestry and Fishing | |
+                
+				Geeves Scaffolding Limited | 
+				Construction &amp; Building |
+				(http://www.geevesscaffolding.co.nz)
+				[www.geevesscaffolding.co.nz]
+
+				Genera Limited | 
+				Other |
+				(http://www.genera.co.nz)
+				[www.genera.co.nz]
+
+				General Cable New Zealand Limited | 
+				Manufacturing |
+				(http://www.generalcable.co.nz)
+				[www.generalcable.co.nz]
+
+				Genesis Energy Limited | 
+				Water, Gas, Electricity |
+				(https://www.genesisenergy.co.nz)
+				[www.genesisenergy.co.nz]
+
+				George Grant Engineering Limited | 
+				Engineering |
+				(http://gge.co.nz)
+				[gge.co.nz]
+
+				Geotechnics Limited | 
+				Engineering |
+				(http://www.geotechnics.co.nz)
+				[www.geotechnics.co.nz]
+
+				Geovert Ltd | 
+				Engineering |
+				(http://www.geovert.com)
+				[www.geovert.com]
+
+				GHD Limited | 
+				Engineering |
+				(http://www.ghd.comnew-zealand)
+				[www.ghd.comnew-zealand]
+
+				Giltrap Farm Machinery Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://gaz.co.nz)
+				[gaz.co.nz]
+
+				Glassons Limited | 
+				Retail |
+				(https://www.glassons.com)
+				[www.glassons.com]
+
+				Gleeson &amp; Cox Transport Limited | 
+				Transport &amp; Logistics |
+				(http://www.gleesoncox.co.nz)
+				[www.gleesoncox.co.nz]
+
+				Global Tyre Solutions (2008) Ltd | 
+				Retail |
+				(http://www.globaltyres.co.nz)
+				[www.globaltyres.co.nz]
+
+				Go Rentals (Auckland) Limited | 
+				Hospitality &amp; Tourism |
+				(http://www.gorentals.co.nz)
+				[www.gorentals.co.nz]
+
+				Godfrey And Company Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.godfrey.co.nz)
+				[www.godfrey.co.nz]
+
+				Goodman Fielder New Zealand Ltd | 
+				Manufacturing |
+				(http://goodmanfielder.comcountries/new-zealand)
+				[goodmanfielder.comcountries]
+
+				Goodstore NZ Ltd | 
+				Retail |
+				(http://www.goodstore.co.nz)
+				[www.goodstore.co.nz]
+
+				Gough, Gough &amp; Hamer Ltd | 
+				Manufacturing |
+				(http://goughgroup.co.nz)
+				[goughgroup.co.nz]
+
+				Gourmet Paprika Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://nzgourmet.net/gourmet-paprika.html)
+				[nzgourmet.net]
+
+				Grant Thornton New Zealand Ltd | 
+				Accounting, Finance &amp; Legal |
+				(http://www.grantthornton.co.nz)
+				[www.grantthornton.co.nz]
+
+				Grapeworx Marlborough Ltd | 
+				Horticulture &amp; Viticulture | |
+                
+				Grayson Engineering 2015 Ltd | 
+				Manufacturing |
+				(http://www.grayson-engineering.co.nz)
+				[www.grayson-engineering.co.nz]
+
+				Greater Wellington Regional Council | 
+				Government (local) |
+				(http://www.gw.govt.nz)
+				[www.gw.govt.nz]
+
+				Greenpeace of New Zealand Inc | 
+				Other |
+				(http://www.greenpeace.org/new-zealand/en)
+				[www.greenpeace.org]
+
+				Greymouth Petroleum Limited | 
+				Water, Gas, Electricity |
+				(http://www.greymouthpetroleum.co.nz)
+				[www.greymouthpetroleum.co.nz]
+
+				Griffin's Foods Limited | 
+				Food and Beverages Manufacturing |
+				(https://www.griffinsfoodcompany.com)
+				[www.griffinsfoodcompany.com]
+
+				Groundfix Limited | 
+				Engineering |
+				(http://groundfix.co.nz)
+				[groundfix.co.nz]
+
+				GroupM New Zealand Ltd | 
+				Information Technology |
+				(https://www.groupm.com)
+				[www.groupm.com]
+
+				Hanbing International Trading Limited | 
+				Retail | |
+                
+				Hanham &amp; Philp Contractors Limited | 
+				Construction &amp; Building |
+				(http://www.hanhamphilp.co.nz)
+				[www.hanhamphilp.co.nz]
+
+				Harrison Grierson Consultants Ltd | 
+				Administration &amp; Customer Service |
+				(http://www.harrisongrierson.com)
+				[www.harrisongrierson.com]
+
+				Hawke's Bay District Health Board (Hawkes Bay DHB) | 
+				Healthcare |
+				(http://www.hawkesbay.health.nz)
+				[www.hawkesbay.health.nz]
+
+				Hawkins Group Limited | 
+				Construction &amp; Building |
+				(http://www.hawkins.co.nz)
+				[www.hawkins.co.nz]
+
+				Hays Specialist Recruitment (NZ) Limited | 
+				Recruitment |
+				(https://www.hays.net.nz)
+				[www.hays.net.nz]
+
+				Health Alliance Limited | 
+				Healthcare |
+				(http://www.healthalliance.co.nz)
+				[www.healthalliance.co.nz]
+
+				Heatwave Mechanical Services AKL Ltd | 
+				Engineering |
+				(http://www.heatwave.co.nz)
+				[www.heatwave.co.nz]
+
+				HEB Construction Ltd | 
+				Construction &amp; Building |
+				(http://www.heb.co.nz)
+				[www.heb.co.nz]
+
+				Heinz Watties Ltd | 
+				Food and Beverages Manufacturing |
+				(http://www.watties.co.nz)
+				[www.watties.co.nz]
+
+				Hella New Zealand Ltd | 
+				Manufacturing |
+				(https://www.hella.co.nz)
+				[www.hella.co.nz]
+
+				Henry Schein Regional Ltd | 
+				Manufacturing |
+				(https://www.henryschein.co.nz)
+				[www.henryschein.co.nz]
+
+				Hewlett Packard (NZ) Ltd | 
+				Information Technology |
+				(http://www8.hp.com)
+				[www8.hp.com]
+
+				Higgins Coatings Pty Limited | 
+				Construction &amp; Building |
+				(https://www.higgins.com.au)
+				[www.higgins.com.au]
+
+				Higgins Group Holdings Limited | 
+				Construction &amp; Building |
+				(https://www.higgins.com.au)
+				[www.higgins.com.au]
+
+				Higgins Tow Services Limited | 
+				Transport &amp; Logistics | |
+                
+				High Performance Sport  NZ | 
+				Sports |
+				(http://www.hpsnz.org.nz)
+				[www.hpsnz.org.nz]
+
+				Hilti (New Zealand) Limited | 
+				Construction &amp; Building |
+				(https://www.hilti.co.nz)
+				[www.hilti.co.nz]
+
+				Hiway Group | 
+				Construction &amp; Building |
+				(http://www.hiways.co.nz)
+				[www.hiways.co.nz]
+
+				Holcim (New Zealand) Ltd | 
+				Construction &amp; Building |
+				(http://www.holcim.co.nz)
+				[www.holcim.co.nz]
+
+				Holmes Consulting Group Limited Partnership | 
+				Engineering |
+				(https://www.holmesgroup.com)
+				[www.holmesgroup.com]
+
+				Holmes Fire Limited Partnership | 
+				Engineering |
+				(http://www.holmesfire.com)
+				[www.holmesfire.com]
+
+				Horizon Energy Distribution Limited | 
+				Water, Gas, Electricity |
+				(http://www.horizonenergy.net.nz)
+				[www.horizonenergy.net.nz]
+
+				Horowhenua District Council | 
+				Government (local) |
+				(http://www.horowhenua.govt.nzHome)
+				[www.horowhenua.govt.nzHome]
+
+				Housing New Zealand Corporation | 
+				Government (central) |
+				(http://www.hnzc.co.nz)
+				[www.hnzc.co.nz]
+
+				Hudson Global Resources (NZ) Limited | 
+				Recruitment |
+				(http://nz.hudson.com)
+				[nz.hudson.com]
+
+				Huhtamaki Henderson Ltd | 
+				Manufacturing |
+				(http://www.foodservice.huhtamaki.co.nz)
+				[www.foodservice.huhtamaki.co.nz]
+
+				Hutt Valley District Health Board (Hutt Valley DHB) | 
+				Healthcare |
+				(http://www.huttvalleydhb.org.nz)
+				[www.huttvalleydhb.org.nz]
+
+				Hydrotech Limited | 
+				Construction &amp; Building |
+				(http://www.hydrotechdrainage.co.nz)
+				[www.hydrotechdrainage.co.nz]
+
+				IAG New Zealand | 
+				Accounting, Finance &amp; Legal |
+				(http://www.iag.co.nz)
+				[www.iag.co.nz]
+
+				IBM New Zealand Limited | 
+				Information Technology |
+				(http://www.ibm.comnz-en)
+				[www.ibm.comnz-en]
+
+				Icebreaker Ltd | 
+				Manufacturing |
+				(http://nz.icebreaker.comen/home)
+				[nz.icebreaker.comen]
+
+				Ignite Architects Limited | 
+				Construction &amp; Building |
+				(http://www.ignitearchitects.com)
+				[www.ignitearchitects.com]
+
+				Impact Tiling | 
+				Construction &amp; Building |
+				(http://www.impacttiling.co.nz)
+				[www.impacttiling.co.nz]
+
+				Indevin Group Ltd | 
+				Horticulture &amp; Viticulture |
+				(http://www.indevin.com)
+				[www.indevin.com]
+
+				Industrial Site Services | 
+				Construction &amp; Building |
+				(http://www.iss.co.nz)
+				[www.iss.co.nz]
+
+				Information Tools Limited | 
+				Information Technology |
+				(http://www.infotools.com)
+				[www.infotools.com]
+
+				Ingham Motors Wellington Ltd | 
+				Retail |
+				(http://www.inghamdriven.nz)
+				[www.inghamdriven.nz]
+
+				Inland Revenue | 
+				Government (central) |
+				(http://www.ird.govt.nz)
+				[www.ird.govt.nz]
+
+				Institute of Environmental Science and Research Limited | 
+				Science &amp; Technology |
+				(http://www.esr.cri.nz)
+				[www.esr.cri.nz]
+
+				Institute of Geological and Nuclear Sciences Limited | 
+				Engineering |
+				(https://www.gns.cri.nz)
+				[www.gns.cri.nz]
+
+				Intergen | 
+				Information Technology |
+				(http://www.intergen.co.nz)
+				[www.intergen.co.nz]
+
+				Intertek Testing Services (NZ) Limited | 
+				Other |
+				(http://www.intertek.com)
+				[www.intertek.com]
+
+				Invenco Group Ltd | 
+				Information Technology |
+				(http://www.invenco.com)
+				[www.invenco.com]
+
+				iScaff Limited | 
+				Construction &amp; Building |
+				(http://www.iscaff.co.nz)
+				[www.iscaff.co.nz]
+
+				Ixom Operatopms  Pty Ltd | 
+				Manufacturing | |
+                
+				J W &amp; B J Beatson | 
+				Construction &amp; Building |
+				
+	
+	
+	
+
+			
+				Jackson Holmes Contracting Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.jacksonholmes.co.nz)
+				[www.jacksonholmes.co.nz]
+
+				Jacobs (Sinclair Knight Merz) | 
+				Engineering |
+				(http://www.jacobs.com)
+				[www.jacobs.com]
+
+				JBWere (NZ) Pty Ltd | 
+				Accounting, Finance &amp; Legal |
+				(https://www.jbwere.co.nz)
+				[www.jbwere.co.nz]
+
+				JD Hickman Ltd | 
+				Transport &amp; Logistics |
+				(http://www.jdhickman.co.nz)
+				[www.jdhickman.co.nz]
+
+				JLE Holdings Limited | 
+				Water, Gas, Electricity |
+				(http://www.jle.co.nz)
+				[www.jle.co.nz]
+
+				John Fillmore Contracting Limited | 
+				Engineering |
+				(http://www.jfcLTD.co.nz)
+				[www.jfcLTD.co.nz]
+
+				K &amp; S Freighters Limited | 
+				Transport &amp; Logistics |
+				(http://www.ksgroup.com.au)
+				[www.ksgroup.com.au]
+
+				Kakahu Farm Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.kakahuangus.com)
+				[www.kakahuangus.com]
+
+				Kathmandu New Zealand | 
+				High Value Manufacturing |
+				(http://www.kathmandu.co.nz)
+				[www.kathmandu.co.nz]
+
+				Kelly Services (New Zealand) Limited | 
+				Human Resources |
+				(http://www.kellyservices.co.nz)
+				[www.kellyservices.co.nz]
+
+				Kelso Kontracting Co Ltd | 
+				Agriculture, Forestry and Fishing | |
+                
+				Kinetiq Ltd | 
+				Information Technology |
+				(https://www.kinetiq.com)
+				[www.kinetiq.com]
+
+				Kiwi Rail Ltd | 
+				Engineering |
+				(http://www.kiwirail.co.nz)
+				[www.kiwirail.co.nz]
+
+				KPMG | 
+				Accounting, Finance &amp; Legal |
+				(https://home.kpmg.com/nz/en/home.html)
+				[home.kpmg.com]
+
+				Lakes District Health Board (Lakes District DHB) | 
+				Healthcare |
+				(http://www.lakesdhb.govt.nz)
+				[www.lakesdhb.govt.nz]
+
+				Landcare Research New Zealand Limited | 
+				Science &amp; Technology |
+				(http://www.landcareresearch.co.nz)
+				[www.landcareresearch.co.nz]
+
+				Landseer Motor Investments Auckland Ltd trading as Andrew Simms Mitsubishi | 
+				Administration &amp; Customer Service |
+				(http://www.andrewsimms.co.nz)
+				[www.andrewsimms.co.nz]
+
+				Le Cordon Bleu New Zealand Institute Limited Partnership | 
+				Education &amp; Training |
+				(http://www.cordonbleu.edu/new-zealand/welcome-to-new-zealand/en)
+				[www.cordonbleu.edu]
+
+				LeasePlan New Zealand Limited | 
+				Other |
+				(https://leaseplan.co.nz)
+				[leaseplan.co.nz]
+
+				Leighs Construction Limited | 
+				Construction &amp; Building |
+				(http://www.leighsconstruction.co.nz)
+				[www.leighsconstruction.co.nz]
+
+				Les Mills New Zealand Ltd | 
+				Sports |
+				(https://www.lesmills.co.nz)
+				[www.lesmills.co.nz]
+
+				Lincoln Agritech Ltd | 
+				Agriculture, Forestry and Fishing |
+				(http://www.lincolnagritech.co.nz)
+				[www.lincolnagritech.co.nz]
+
+				Lincoln University | 
+				Education &amp; Training |
+				(http://www.lincoln.ac.nz)
+				[www.lincoln.ac.nz]
+
+				Linfox Logistics (NZ) LImited | 
+				Transport &amp; Logistics |
+				(http://www.linfox.com)
+				[www.linfox.com]
+
+				Lion - Beer, Spirits &amp; Wine (NZ) Limited | 
+				Food and Beverages Manufacturing |
+				(http://www.lionco.com)
+				[www.lionco.com]
+
+				Livefirm Construction Limited | 
+				Construction &amp; Building |
+				(http://www.livefirm.co.nz)
+				[www.livefirm.co.nz]
+
+				Liverton Technologies | 
+				Information Technology |
+				(http://www.liverton.com)
+				[www.liverton.com]
+
+				LKK Food Equipment Limited | 
+				Manufacturing |
+				(http://www.lkk.co.nz)
+				[www.lkk.co.nz]
+
+				LMI Shared Services Limited/Les Mills International Limited | 
+				Other |
+				(https://www.lesmills.com)
+				[www.lesmills.com]
+
+				Logicamms New Zealand | 
+				High Value Manufacturing |
+				(http://www.logicamms.com)
+				[www.logicamms.com]
+
+				Madison Recruitment | 
+				Recruitment |
+				(https://www.madison.co.nz)
+				[www.madison.co.nz]
+
+				Maersk Line New Zealand | 
+				Transport &amp; Logistics |
+				(http://www.maersk.comen)
+				[www.maersk.comen]
+
+				Mainfreight Limited | 
+				Transport &amp; Logistics |
+				(http://www.mainfreight.com)
+				[www.mainfreight.com]
+
+				Malaghan Institute of Medical Research | 
+				Healthcare |
+				(http://www.malaghan.org.nz)
+				[www.malaghan.org.nz]
+
+				Manpower Services (New Zealand) Limited | 
+				Recruitment |
+				(http://www.manpower.co.nz)
+				[www.manpower.co.nz]
+
+				Marali Ltd t/a Lollipops Educare Botany | 
+				Education &amp; Training |
+				(http://www.lollipopseducare.co.nz)
+				[www.lollipopseducare.co.nz]
+
+				Maritime New Zealand | 
+				Government (central) |
+				(http://www.maritimenz.govt.nz)
+				[www.maritimenz.govt.nz]
+
+				Marlborough District Council | 
+				Government (local) |
+				(http://www.marlborough.govt.nz)
+				[www.marlborough.govt.nz]
+
+				Marsh Ltd | 
+				Accounting, Finance &amp; Legal |
+				(https://www.marsh.com/nz)
+				[www.marsh.com]
+
+				Massey University | 
+				Education &amp; Training |
+				(http://www.massey.ac.nz)
+				[www.massey.ac.nz]
+
+				Matamata Veterinary Services Ltd | 
+				Other |
+				(http://www.matamatavets.co.nz)
+				[www.matamatavets.co.nz]
+
+				Max Pennington's Autocity | 
+				Retail |
+				(http://www.autocity.co.nz)
+				[www.autocity.co.nz]
+
+				McAlpine Hussmann Limited | 
+				Engineering |
+				(http://www.mcalpinehussmann.co.nz)
+				[www.mcalpinehussmann.co.nz]
+
+				McConnell Dowell Constructors Limited | 
+				Construction &amp; Building |
+				(http://www.mcconnelldowell.com)
+				[www.mcconnelldowell.com]
+
+				McKenzie &amp; Parma Ltd | 
+				Engineering |
+				(http://www.mckenzieparma.co.nz)
+				[www.mckenzieparma.co.nz]
+
+				McMillan Drilling Limited | 
+				Construction &amp; Building |
+				(http://www.drilling.co.nz)
+				[www.drilling.co.nz]
+
+				Mediaworks NZ Limited | 
+				Advertising, Media, PR |
+				(http://www.mediaworks.co.nz)
+				[www.mediaworks.co.nz]
+
+				Mercedes-Benz Financial Services New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.mercedes-benz.co.nz)
+				[www.mercedes-benz.co.nz]
+
+				Mercury Energy | 
+				Water, Gas, Electricity | |
+                
+				Meridian Energy Limited | 
+				Water, Gas, Electricity |
+				(https://www.meridianenergy.co.nz)
+				[www.meridianenergy.co.nz]
+
+				Meteorological Service NZ Ltd (MetService) | 
+				Other |
+				(http://www.metservice.com)
+				[www.metservice.com]
+
+				Methanex New Zealand Ltd | 
+				Water, Gas, Electricity |
+				(https://www.methanex.com)
+				[www.methanex.com]
+
+				Metocean Solutions Limited | 
+				Science &amp; Technology |
+				(http://www.metocean.co.nz)
+				[www.metocean.co.nz]
+
+				Michael Page International (NZ) Limited | 
+				Recruitment |
+				(http://www.michaelpage.co.nz)
+				[www.michaelpage.co.nz]
+
+				Mid Central District Health Board (Mid Central DHB) | 
+				Healthcare |
+				(http://www.midcentraldhb.govt.nz)
+				[www.midcentraldhb.govt.nz]
+
+				Mighty River Power | 
+				Water, Gas, Electricity |
+				(https://www.mercury.co.nz)
+				[www.mercury.co.nz]
+
+				Mindfull Limited | 
+				Information Technology |
+				(http://www.mindfull.nz)
+				[www.mindfull.nz]
+
+				Ministry for Primary Industries (MPI) | 
+				Government (central) |
+				(http://www.mpi.govt.nz)
+				[www.mpi.govt.nz]
+
+				Ministry for the Environment | 
+				Government (central) |
+				(http://www.mfe.govt.nz)
+				[www.mfe.govt.nz]
+
+				Ministry of Education | 
+				Government (central) |
+				(http://www.education.govt.nz)
+				[www.education.govt.nz]
+
+				Ministry of Health | 
+				Healthcare |
+				(http://www.health.govt.nz)
+				[www.health.govt.nz]
+
+				Ministry of Social Development (MSD) | 
+				Government (central) |
+				(http://www.msd.govt.nz)
+				[www.msd.govt.nz]
+
+				Minter Ellison Rudd Watts | 
+				Accounting, Finance &amp; Legal |
+				(http://www.minterellison.co.nz)
+				[www.minterellison.co.nz]
+
+				Mitre 10 (New Zealand) Limited | 
+				Retail |
+				(https://www.mitre10.co.nz)
+				[www.mitre10.co.nz]
+
+				Modec Management Services PTE LTD | 
+				Water, Gas, Electricity |
+				(http://www.modec.com)
+				[www.modec.com]
+
+				Molloy Agriculture Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.molloyag.co.nz)
+				[www.molloyag.co.nz]
+
+				Monowai Holdings Ltd T/A Mc Donalds Tga 11th Ave | 
+				Hospitality &amp; Tourism | |
+                
+				Morgan Project Services Pty Ltd | 
+				Other |
+				(http://www.morganprojects.co.nz)
+				[www.morganprojects.co.nz]
+
+				Movio | 
+				Digital Media |
+				(http://movio.co/)
+				[movio.co]
+
+				MWH New Zealand Limited | 
+				Engineering |
+				(http://nz.mwhglobal.com)
+				[nz.mwhglobal.com]
+
+				National Institute of Water and Atmospheric Research Limited (NIWA) | 
+				Science &amp; Technology |
+				(https://www.niwa.co.nz)
+				[www.niwa.co.nz]
+
+				National Springs and Wire Products | 
+				Manufacturing |
+				(http://www.natspring.co.nz)
+				[www.natspring.co.nz]
+
+				Natural Habitats Ltd | 
+				Construction &amp; Building |
+				(http://www.naturalhabitats.co.nz)
+				[www.naturalhabitats.co.nz]
+
+				Natural History New Zealand Limited | 
+				Film &amp; Television |
+				(http://www.nhnz.tv)
+				[www.nhnz.tv]
+
+				Navico Auckland Limited | 
+				Engineering |
+				(http://navico.com)
+				[navico.com]
+
+				Naylor Love Enterprises Limited | 
+				Construction &amp; Building |
+				(http://www.naylorlove.co.nz)
+				[www.naylorlove.co.nz]
+
+				Nelson City Council | 
+				Government (local) |
+				(http://nelson.govt.nz)
+				[nelson.govt.nz]
+
+				Nestle New Zealand Limited | 
+				Manufacturing |
+				(https://www.nestle.co.nz)
+				[www.nestle.co.nz]
+
+				New Plymouth District Council | 
+				Government (local) |
+				(http://www.newplymouthnz.com)
+				[www.newplymouthnz.com]
+
+				New Zealand Artificial Limb Service | 
+				Healthcare |
+				(http://www.nzals.co.nz)
+				[www.nzals.co.nz]
+
+				New Zealand Blood Service | 
+				Healthcare |
+				(http://www.nzblood.co.nz)
+				[www.nzblood.co.nz]
+
+				New Zealand Labour Hire | 
+				Construction &amp; Building |
+				(http://www.nzlabourhire.co.nz)
+				[www.nzlabourhire.co.nz]
+
+				New Zealand Oil &amp; Gas Limited | 
+				Water, Gas, Electricity |
+				(https://www.nzog.com)
+				[www.nzog.com]
+
+				New Zealand Pharmaceuticals | 
+				Manufacturing |
+				(http://www.nzp.co.nz)
+				[www.nzp.co.nz]
+
+				New Zealand Post | 
+				Administration &amp; Customer Service |
+				(https://www.nzpost.co.nz)
+				[www.nzpost.co.nz]
+
+				New Zealand Racing Board | 
+				Sports |
+				(https://nzracingboard.co.nz)
+				[nzracingboard.co.nz]
+
+				New Zealand Sugar Company Limited | 
+				Manufacturing |
+				(http://www.chelsea.co.nz)
+				[www.chelsea.co.nz]
+
+				New Zealand Symphony Orchestra Ltd | 
+				Arts, Culture, Entertainers |
+				(https://www.nzso.co.nz)
+				[www.nzso.co.nz]
+
+				New Zealand Trade &amp; Enterprise (NZTE) | 
+				Government (central) |
+				(https://www.nzte.govt.nz)
+				[www.nzte.govt.nz]
+
+				New Zealand Transport Agency (NZTA) | 
+				Government (central) |
+				(http://www.nzta.govt.nz)
+				[www.nzta.govt.nz]
+
+				Ninja Kiwi | 
+				Information Technology |
+				(https://ninjakiwi.com)
+				[ninjakiwi.com]
+
+				North Shore Scaffolding Ltd | 
+				Construction &amp; Building |
+				(http://www.northshorescaffolding.co.nz)
+				[www.northshorescaffolding.co.nz]
+
+				North Shore Takapuna Golf Limited | 
+				Sports |
+				(http://www.tgolf.co.nz)
+				[www.tgolf.co.nz]
+
+				Northland District Health Board (Northland DHB) | 
+				Healthcare |
+				(http://www.northlanddhb.org.nz)
+				[www.northlanddhb.org.nz]
+
+				Northland Polytechnic | 
+				Education &amp; Training |
+				(http://www.northtec.ac.nz)
+				[www.northtec.ac.nz]
+
+				Northpower Limited | 
+				Water, Gas, Electricity |
+				(http://northpower.com)
+				[northpower.com]
+
+				NZ Distribution Limited | 
+				Information Technology |
+				(http://www.nzcomputersales.co.nz)
+				[www.nzcomputersales.co.nz]
+
+				Oceana Gold (New Zealand) Limited | 
+				Engineering |
+				(http://www.oceanagold.com)
+				[www.oceanagold.com]
+
+				Office of Auditor General (Audit New Zealand) | 
+				Accounting, Finance &amp; Legal |
+				(http://www.oag.govt.nz)
+				[www.oag.govt.nz]
+
+				Ogilvy New Zealand Limited | 
+				Advertising, Media, PR |
+				(http://ogilvy.co.nz)
+				[ogilvy.co.nz]
+
+				Oji Fibre Solutions (NZ) Ltd | 
+				Manufacturing |
+				(http://www.ojifs.com)
+				[www.ojifs.com]
+
+				OMV New Zealand Limited | 
+				Engineering |
+				(http://www.omv.comportal/01/com)
+				[www.omv.comportal]
+
+				Open Country Dairy Ltd | 
+				Agriculture, Forestry and Fishing |
+				(http://www.opencountry.co.nz)
+				[www.opencountry.co.nz]
+
+				Opus International Consultants Ltd | 
+				Engineering |
+				(http://www.opus.co.nz)
+				[www.opus.co.nz]
+
+				Oracle New Zealand Unlimited | 
+				Information Technology |
+				(https://www.oracle.comnzindex.html)
+				[www.oracle.comnzindex.html]
+
+				OraHQ Limited | 
+				Advertising, Media, PR |
+				(https://orahq.com)
+				[orahq.com]
+
+				Orchestral Developments Limited t/a (Orion Health) | 
+				Information Technology |
+				(http://www.oriongroup.com)
+				[www.oriongroup.com]
+
+				Orion New Zealand Ltd | 
+				Water, Gas, Electricity |
+				(http://www.oriongroup.com)
+				[www.oriongroup.com]
+
+				Orthotic Centre (NZ) Limited | 
+				Healthcare |
+				(http://www.orthotics.co.nz)
+				[www.orthotics.co.nz]
+
+				Otis Elevator Company Ltd | 
+				Manufacturing |
+				(http://www.otisworldwide.comd1-about.html)
+				[www.otisworldwide.comd1-about.html]
+
+				Oxfam New Zealand | 
+				Other |
+				(https://www.oxfam.org.nz)
+				[www.oxfam.org.nz]
+
+				Pacific Channel Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://pacificchannel.com)
+				[pacificchannel.com]
+
+				Palmerston North City Council | 
+				Government (local) |
+				(http://www.pncc.govt.nz)
+				[www.pncc.govt.nz]
+
+				Paul Reddish Decorators Limited | 
+				Construction &amp; Building |
+				(http://www.paulreddish.com)
+				[www.paulreddish.com]
+
+				Paymark Limited | 
+				Information Technology |
+				(https://www.paymark.co.nz)
+				[www.paymark.co.nz]
+
+				Penina Health Trust | 
+				Healthcare |
+				(http://www.peninahealth.org.nz)
+				[www.peninahealth.org.nz]
+
+				Penske Commercial Vehicles NZ | 
+				Transport &amp; Logistics |
+				(http://www.penskecv.co.nz)
+				[www.penskecv.co.nz]
+
+				Pernod Ricard Winemakers New Zealand Limited | 
+				Horticulture &amp; Viticulture |
+				(http://www.pernod-ricard-nz.com)
+				[www.pernod-ricard-nz.com]
+
+				Planit Software Testing Limited | 
+				Information Technology |
+				(https://www.planittesting.comnz)
+				[www.planittesting.comnz]
+
+				Plant &amp; Platform Consultants Limited | 
+				Engineering |
+				(http://www.pandp.co.nz)
+				[www.pandp.co.nz]
+
+				Ports of Auckland | 
+				Transport &amp; Logistics |
+				(http://www.poal.co.nz)
+				[www.poal.co.nz]
+
+				Power Farming Holdings | 
+				Agriculture, Forestry and Fishing |
+				(http://www.powerfarming.co.nz)
+				[www.powerfarming.co.nz]
+
+				Power Rangers Productions Limited | 
+				Film &amp; Television | |
+                
+				PowerCo | 
+				Water, Gas, Electricity |
+				(http://www.powerco.co.nz)
+				[www.powerco.co.nz]
+
+				Presbyterian Support Southland | 
+				Other |
+				(https://pss.org.nz)
+				[pss.org.nz]
+
+				PricewaterhouseCoopers | 
+				Accounting, Finance &amp; Legal |
+				(http://www.pwc.co.nz)
+				[www.pwc.co.nz]
+
+				Prodigy Design Ltd T/A PikPok | 
+				Information Technology |
+				(http://www.sidhe.co.nz)
+				[www.sidhe.co.nz]
+
+				Pro-Floors Limited | 
+				Construction &amp; Building |
+				(http://www.profloors.co.nz)
+				[www.profloors.co.nz]
+
+				Progressive Enterprises Limited | 
+				Retail |
+				(http://www.progressive.co.nz)
+				[www.progressive.co.nz]
+
+				Pushpay | 
+				Information Technology |
+				(https://pushpay.com)
+				[pushpay.com]
+
+				Qual IT Solutions Limited | 
+				Information Technology |
+				(http://www.qualit.co.nz)
+				[www.qualit.co.nz]
+
+				Queenstown Lakes District Council | 
+				Government (local) |
+				(http://www.qldc.govt.nz)
+				[www.qldc.govt.nz]
+
+				R and S Trade Group Ltd t/a Total Site Supplies | 
+				Construction &amp; Building |
+				(http://www.totalsitesupplies.co.nz)
+				[www.totalsitesupplies.co.nz]
+
+				Rakon Limited | 
+				Manufacturing |
+				(http://www.rakon.com)
+				[www.rakon.com]
+
+				Randstad New Zealand | 
+				Recruitment |
+				(http://www.randstad.co.nz)
+				[www.randstad.co.nz]
+
+				Rayonier New Zealand Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.matarikiforests.co.nz)
+				[www.matarikiforests.co.nz]
+
+				RCR Energy Limited | 
+				Engineering |
+				(http://www.rcrtom.com.auindex.php/our-business/global/133-rcr-new-zealand)
+				[www.rcrtom.com.auindex.php]
+
+				Redvespa Consultants Limited | 
+				Information Technology |
+				(http://redvespa.com)
+				[redvespa.com]
+
+				Reel Roofing Ltd | 
+				Construction &amp; Building |
+				(http://reelroofing.co.nz)
+				[reelroofing.co.nz]
+
+				Reliance Transport Limited | 
+				Transport &amp; Logistics |
+				(http://www.reliance.co.nz)
+				[www.reliance.co.nz]
+
+				Reserve Bank of New Zealand | 
+				Government (central) |
+				(http://www.rbnz.govt.nz)
+				[www.rbnz.govt.nz]
+
+				Retro Vehicle Enhancement Ltd | 
+				Manufacturing |
+				(http://www.rve.co.nz)
+				[www.rve.co.nz]
+
+				Rexel New Zealand t/a Ideal Electrical Supplies | 
+				Retail |
+				(http://www.ideal.co.nz)
+				[www.ideal.co.nz]
+
+				Ricoh New Zealand Limited | 
+				Information Technology |
+				(http://www.ricoh.co.nz)
+				[www.ricoh.co.nz]
+
+				Rider Levett Bucknall Auckland Limited | 
+				Construction &amp; Building |
+				(http://rlb.comen/)
+				[rlb.comen]
+
+				Riviera Hardware Holdings Limited | 
+				Retail |
+				(https://www.mitre10.co.nz)
+				[www.mitre10.co.nz]
+
+				Robert Half New Zealand Limited | 
+				Recruitment |
+				(https://www.roberthalf.co.nz)
+				[www.roberthalf.co.nz]
+
+				Robert Walters New Zealand Limited | 
+				Recruitment |
+				(https://www.robertwalters.co.nz)
+				[www.robertwalters.co.nz]
+
+				Roche Products (New Zealand) Limited | 
+				Healthcare |
+				(http://www.roche.co.nz)
+				[www.roche.co.nz]
+
+				Rocketwerkz Limited | 
+				Information Technology |
+				
+	
+	
+	
+
+			
+				Rotorua Lakes Council | 
+				Government (local) |
+				(http://www.rotorualakescouncil.nz)
+				[www.rotorualakescouncil.nz]
+
+				Royal New Zealand Ballet | 
+				Arts, Culture, Entertainers |
+				(http://rnzb.org.nz)
+				[rnzb.org.nz]
+
+				RPM International Tool and Die Ltd | 
+				Manufacturing |
+				(http://www.rpmtoolanddie.com)
+				[www.rpmtoolanddie.com]
+
+				Rubbish Direct Limited | 
+				Other |
+				(http://www.rubbishdirect.co.nz)
+				[www.rubbishdirect.co.nz]
+
+				RWA People Limited | 
+				Information Technology |
+				(http://www.rwa.co.nz)
+				[www.rwa.co.nz]
+
+				Ryal Bush Transport Limited | 
+				Transport &amp; Logistics |
+				(http://www.ryalbushtransport.co.nz)
+				[www.ryalbushtransport.co.nz]
+
+				Safeway Scaffolding | 
+				Construction &amp; Building |
+				(http://www.safewayscaffolding.co.nz)
+				[www.safewayscaffolding.co.nz]
+
+				Saint Clair Estate Wines Ltd | 
+				Horticulture &amp; Viticulture |
+				(http://www.saintclair.co.nz)
+				[www.saintclair.co.nz]
+
+				Schindler Lifts New Zealand Limited | 
+				Engineering |
+				(http://www.schindler.comcom)
+				[www.schindler.comcom]
+
+				Scion Research (NZ Forest Institute) | 
+				Biotechnology |
+				(http://www.scionresearch.com)
+				[www.scionresearch.com]
+
+				Scott Technology Ltd | 
+				Manufacturing |
+				(http://scott.co.nz)
+				[scott.co.nz]
+
+				Sealed Air New Zealand Limited | 
+				Hospitality &amp; Tourism |
+				(https://sealedair.com)
+				[sealedair.com]
+
+				Seeka Kiwifruit Industies Ltd | 
+				Horticulture &amp; Viticulture |
+				(http://www.seeka.co.nz)
+				[www.seeka.co.nz]
+
+				Seipp Contruction Ltd | 
+				Engineering |
+				(http://www.connellcontractors.co.nz)
+				[www.connellcontractors.co.nz]
+
+				Serato Inc Limited Partnership | 
+				Information Technology |
+				(https://serato.com)
+				[serato.com]
+
+				Serco New Zealand Ltd | 
+				Other |
+				(https://www.serco.com)
+				[www.serco.com]
+
+				Serko Limited | 
+				Information Technology |
+				(http://www.serko.com)
+				[www.serko.com]
+
+				SGS New Zealand Ltd | 
+				Engineering |
+				(http://www.sgs.co.nz)
+				[www.sgs.co.nz]
+
+				Shiseido (NZ) Limited | 
+				Other |
+				(https://www.shiseido.co.nz)
+				[www.shiseido.co.nz]
+
+				Sicon Limited | 
+				Construction &amp; Building |
+				(http://sicon.co.nz)
+				[sicon.co.nz]
+
+				Sika (NZ) Limited | 
+				Manufacturing |
+				(http://nzl.sika.com)
+				[nzl.sika.com]
+
+				Silver Fern Farms Ltd | 
+				Manufacturing |
+				(http://www.silverfernfarms.com)
+				[www.silverfernfarms.com]
+
+				Silver Fern Shipping Limited | 
+				Transport &amp; Logistics |
+				(http://www.sfsl.co.nz)
+				[www.sfsl.co.nz]
+
+				Sime Darby Motor Group (NZ) Limited | 
+				Retail |
+				(http://www.simedarby.co.nz)
+				[www.simedarby.co.nz]
+
+				Simpson Grierson | 
+				Accounting, Finance &amp; Legal |
+				(http://www.simpsongrierson.com)
+				[www.simpsongrierson.com]
+
+				Sistema Plastics Limited | 
+				Manufacturing |
+				(http://www.thehangercompany.co.nz)
+				[www.thehangercompany.co.nz]
+
+				Sky Communications Ltd | 
+				Information Technology |
+				(http://www.skycomms.co.nz)
+				[www.skycomms.co.nz]
+
+				Sky Network Television Limited | 
+				Film &amp; Television |
+				(https://www.sky.co.nz)
+				[www.sky.co.nz]
+
+				SKYCITY Entertainment Group Limited (SKY City Management Group) | 
+				Hospitality &amp; Tourism |
+				(https://www.skycityentertainmentgroup.com)
+				[www.skycityentertainmentgroup.com]
+
+				Skyhigh Scaffolding Limited | 
+				Construction &amp; Building |
+				(http://www.skyhighscaffolding.co.nz)
+				[www.skyhighscaffolding.co.nz]
+
+				SLI Systems | 
+				Information Technology |
+				(https://www.sli-systems.com)
+				[www.sli-systems.com]
+
+				Smartfoods Limited | 
+				Manufacturing |
+				(http://www.smartfoods.co.nz)
+				[www.smartfoods.co.nz]
+
+				Smartpay | 
+				Information Technology |
+				(https://www.smartpay.co.nz)
+				[www.smartpay.co.nz]
+
+				SMX Limited | 
+				Information Technology |
+				(https://smxemail.com)
+				[smxemail.com]
+
+				Soltius NZ Ltd | 
+				Information Technology |
+				(http://www.soltius.co.nz)
+				[www.soltius.co.nz]
+
+				South Pacific Scaffolding Ltd | 
+				Construction &amp; Building |
+				(http://www.southpacificscaffolding.co.nz)
+				[www.southpacificscaffolding.co.nz]
+
+				Southbase Construction Limited | 
+				Construction &amp; Building |
+				(http://southbase.co.nz)
+				[southbase.co.nz]
+
+				Southern Cross Medical Care Society | 
+				Healthcare |
+				(https://hospitals.southerncross.co.nz)
+				[hospitals.southerncross.co.nz]
+
+				Southern District Health Board (Southern DHB) | 
+				Healthcare |
+				(http://www.southerndhb.govt.nz)
+				[www.southerndhb.govt.nz]
+
+				Southern Institute of Technology (SIT) | 
+				Education &amp; Training |
+				(https://www.sit.ac.nz)
+				[www.sit.ac.nz]
+
+				Spark New Zealand Trading Limited | 
+				Telecommunications |
+				(http://www.sparknz.co.nz)
+				[www.sparknz.co.nz]
+
+				Splore Dynamics Ltd | 
+				Arts, Culture, Entertainers |
+				(http://www.splore.net)
+				[www.splore.net]
+
+				Springload | 
+				Information Technology |
+				(https://www.springload.co.nz)
+				[www.springload.co.nz]
+
+				St John | 
+				Administration &amp; Customer Service |
+				(http://www.stjohn.org.nz)
+				[www.stjohn.org.nz]
+
+				Staples Rodway Limited | 
+				Accounting, Finance &amp; Legal |
+				(https://staplesrodway.co.nz)
+				[staplesrodway.co.nz]
+
+				Statistics New Zealand | 
+				Government (central) |
+				(http://www.stats.govt.nz)
+				[www.stats.govt.nz]
+
+				Steel and Tube Holdings Ltd | 
+				Manufacturing |
+				(http://steelandtube.co.nz)
+				[steelandtube.co.nz]
+
+				Stellar Machinery Ltd | 
+				Retail |
+				(http://www.stellarmachinery.co.nz)
+				[www.stellarmachinery.co.nz]
+
+				Stork Technical Services NZ Limited | 
+				Engineering |
+				(https://www.stork.com)
+				[www.stork.com]
+
+				Strait Shipping Ltd | 
+				Other |
+				(http://www.straitshipping.co.nz)
+				[www.straitshipping.co.nz]
+
+				Sub Surface Detection Limited | 
+				Construction &amp; Building |
+				(http://www.subsurfacedetection.co.nz)
+				[www.subsurfacedetection.co.nz]
+
+				Such Energy | 
+				Water, Gas, Electricity |
+				(http://z.co.nz)
+				[z.co.nz]
+
+				Summit Scaffolding Limited | 
+				Construction &amp; Building |
+				(http://summitscaffolding.co.nz)
+				[summitscaffolding.co.nz]
+
+				Suncorp NZ Employees Ltd | 
+				Information Technology |
+				(https://www.suncorp.co.nz)
+				[www.suncorp.co.nz]
+
+				Superior Scaffolds 2011 Ltd | 
+				Construction &amp; Building |
+				(http://www.superiorscaffolds.co.nz)
+				[www.superiorscaffolds.co.nz]
+
+				Superscapes Landscape Supplies Limited | 
+				Construction &amp; Building |
+				(http://www.superscapes.co.nz)
+				[www.superscapes.co.nz]
+
+				Syft Technologies | 
+				Engineering |
+				(http://www.thermosash.co.nz/)
+				[www.thermosash.co.nz]
+
+				Synergy Health Limited | 
+				Information Technology |
+				(https://www.synergyhealthLTD.com)
+				[www.synergyhealthLTD.com]
+
+				Synlait Milk Limited | 
+				Food and Beverages Manufacturing |
+				(http://www.synlait.com)
+				[www.synlait.com]
+
+				TD Haulage Limited | 
+				Transport &amp; Logistics |
+				(https://www.tdhaulage.co.nz)
+				[www.tdhaulage.co.nz]
+
+				Tait Limited | 
+				Information Technology |
+				(http://www.taitradio.com)
+				[www.taitradio.com]
+
+				Tang Ming Group Limited | 
+				Manufacturing |
+				(http://tangming.co.nz)
+				[tangming.co.nz]
+
+				Taranaki Rugby Football Union Incorporated | 
+				Sports |
+				(http://trfu.co.nzport-taranaki-bulls)
+				[trfu.co.nzport-taranaki-bulls]
+
+				Taupo District Council | 
+				Government (local) |
+				(http://www.taupodc.govt.nz)
+				[www.taupodc.govt.nz]
+
+				Tauranga City Council | 
+				Government (local) |
+				(http://www.tauranga.govt.nz)
+				[www.tauranga.govt.nz]
+
+				Tavendale and Partners | 
+				Accounting, Finance &amp; Legal |
+				(https://www.tp.co.nz)
+				[www.tp.co.nz]
+
+				Taylor Corporation (1995) Ltd | 
+				Other |
+				(http://www.taylorcorp.co.nz)
+				[www.taylorcorp.co.nz]
+
+				TDM Construction Ltd | 
+				Construction &amp; Building |
+				(http://www.trafficmanagementnz.co.nz/)
+				[www.trafficmanagementnz.co.nz]
+
+				Tegel Foods Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.tegel.co.nz)
+				[www.tegel.co.nz]
+
+				Television New Zealand Limited (TVNZ) | 
+				Film &amp; Television |
+				(https://www.tvnz.co.nz)
+				[www.tvnz.co.nz]
+
+				Telogis Limited | 
+				Information Technology |
+				(https://www.telogis.com)
+				[www.telogis.com]
+
+				Texco Group Limited | 
+				Construction &amp; Building |
+				(http://texco.co.nz)
+				[texco.co.nz]
+
+				The Ascot Hospital and Clinics | 
+				Healthcare |
+				(http://www.mercyascot.co.nz)
+				[www.mercyascot.co.nz]
+
+				The Carpet Barn Hamilton Limited | 
+				Manufacturing |
+				(https://www.carpetmill.co.nz)
+				[www.carpetmill.co.nz]
+
+				The China Navigation Co Pte Ltd | 
+				Other |
+				(http://www.swireshipping.com)
+				[www.swireshipping.com]
+
+				The Farmers' Trading Company Limited | 
+				Retail |
+				(http://www.farmers.co.nz)
+				[www.farmers.co.nz]
+
+				The Group Limited (Provoke Solutions) | 
+				Information Technology |
+				(https://www.auckland.ac.nz/)
+				[www.auckland.ac.nz]
+
+				The New Zealand Automobile Association | 
+				Transport &amp; Logistics |
+				(http://www.aa.co.nz)
+				[www.aa.co.nz]
+
+				The New Zealand Guardian Trust Company Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.guardiantrust.co.nz)
+				[www.guardiantrust.co.nz]
+
+				The New Zealand Institute for Plant and Food Research Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.plantandfood.co.nz)
+				[www.plantandfood.co.nz]
+
+				The New Zealand Refining Company Limited | 
+				Engineering |
+				(http://www.refiningnz.com)
+				[www.refiningnz.com]
+
+				The Open Polytechnic of New Zealand | 
+				Education &amp; Training |
+				(https://www.openpolytechnic.ac.nz)
+				[www.openpolytechnic.ac.nz]
+
+				The Order of St John | 
+				Healthcare |
+				(http://www.stjohn.org.nz)
+				[www.stjohn.org.nz]
+
+				The Todd Corporation Limited | 
+				Manufacturing |
+				(http://www.toddcorporation.com)
+				[www.toddcorporation.com]
+
+				The University of Waikato | 
+				Education &amp; Training |
+				(http://www.waikato.ac.nz)
+				[www.waikato.ac.nz]
+
+				The Warehouse Group Limited | 
+				Retail |
+				(http://www.thewarehouse.co.nz)
+				[www.thewarehouse.co.nz]
+
+				Thermosash Commercial Limited | 
+				Manufacturing |
+				(http://www.thermosash.co.nz)
+				[www.thermosash.co.nz]
+
+				Theta Systems Limited | 
+				Information Technology |
+				(https://www.theta.co.nz)
+				[www.theta.co.nz]
+
+				Thomas Brothers Ltd | 
+				Horticulture &amp; Viticulture | |
+                
+				Tile Installations Christchurch | 
+				Construction &amp; Building |
+				
+	
+	
+	
+
+			
+				Titan Cranes Limited | 
+				Construction &amp; Building |
+				(http://www.titancranes.co.nz)
+				[www.titancranes.co.nz]
+
+				Tom Ryan Cartage Limited | 
+				Other |
+				(http://www.tomryan.co.nz)
+				[www.tomryan.co.nz]
+
+				Tonkin &amp;Taylor | 
+				Engineering |
+				(http://www.tonkintaylor.co.nz)
+				[www.tonkintaylor.co.nz]
+
+				Toparch Ltd | 
+				Construction &amp; Building |
+				(http://toparch.co.nz)
+				[toparch.co.nz]
+
+				Toyota Finance New Zealand Ltd | 
+				Accounting, Finance &amp; Legal |
+				(http://www.toyota.co.nz)
+				[www.toyota.co.nz]
+
+				Trade Me Limited | 
+				Information Technology |
+				(http://www.trademe.co.nz)
+				[www.trademe.co.nz]
+
+				TradeMark Construction Limited | 
+				Construction &amp; Building |
+				(http://www.trademarkconstruction.co.nz)
+				[www.trademarkconstruction.co.nz]
+
+				TradeMark Paving Limited | 
+				Construction &amp; Building |
+				(http://www.trademarkpaving.co.nz)
+				[www.trademarkpaving.co.nz]
+
+				Traffic Design Group Limited | 
+				Engineering |
+				(http://www.tdg.co.nz)
+				[www.tdg.co.nz]
+
+				Traffic Management NZ Limited | 
+				Engineering |
+				(http://www.trafficmanagementnz.co.nz)
+				[www.trafficmanagementnz.co.nz]
+
+				Transactor Technologies Limited | 
+				Information Technology |
+				(https://www.transactortech.com)
+				[www.transactortech.com]
+
+				Transdev Auckland Ltd | 
+				Transport &amp; Logistics |
+				(http://www.transdev.co.nz)
+				[www.transdev.co.nz]
+
+				TransDiesel Ltd | 
+				Construction &amp; Building |
+				(https://www.transdiesel.com)
+				[www.transdiesel.com]
+
+				Transpower New Zealand Ltd | 
+				Water, Gas, Electricity |
+				(https://www.transpower.co.nz)
+				[www.transpower.co.nz]
+
+				Trucks and trailers | 
+				Retail |
+				(http://www.trucksandtrailers.co.nz)
+				[www.trucksandtrailers.co.nz]
+
+				TS Bricklayers Limited | 
+				Construction &amp; Building |
+				(http://www.tsbricklayers.co.nz)
+				[www.tsbricklayers.co.nz]
+
+				TS Trade Services Ltd | 
+				Construction &amp; Building | |
+                
+				Tyco New Zealand Limited | 
+				Engineering |
+				(http://www.wormald.co.nz)
+				[www.wormald.co.nz]
+
+				Unison Networks Ltd | 
+				Water, Gas, Electricity |
+				(http://www.unison.co.nz)
+				[www.unison.co.nz]
+
+				United Fisheries Ltd | 
+				Manufacturing |
+				(http://www.unitedfisheries.co.nz)
+				[www.unitedfisheries.co.nz]
+
+				University of Auckland | 
+				Education &amp; Training |
+				(https://www.auckland.ac.nz)
+				[www.auckland.ac.nz]
+
+				University of Canterbury | 
+				Education &amp; Training |
+				(http://www.canterbury.ac.nz)
+				[www.canterbury.ac.nz]
+
+				University of Otago | 
+				Education &amp; Training |
+				(http://www.otago.ac.nz)
+				[www.otago.ac.nz]
+
+				Upright Scaffolding | 
+				Manufacturing |
+				(http://www.uprightscaffolding.co.nz)
+				[www.uprightscaffolding.co.nz]
+
+				Uretek Ground Engineering (NZ) Limited | 
+				Construction &amp; Building |
+				(https://www.mainmark.com)
+				[www.mainmark.com]
+
+				UUNZ Institute of Business Limited | 
+				Education &amp; Training |
+				(http://uunz.ac.nz)
+				[uunz.ac.nz]
+
+				UXC Holdings (NZ) Limited | 
+				Information Technology |
+				(http://www.uxc.com.au)
+				[www.uxc.com.au]
+
+				Valentia Technologies NZ Ltd | 
+				Information Technology |
+				(http://valentiatech.com)
+				[valentiatech.com]
+
+				Vector Ltd | 
+				Water, Gas, Electricity |
+				(https://www.vector.co.nz)
+				[www.vector.co.nz]
+
+				Veda Advantage (NZ) Limited | 
+				Information Technology |
+				(http://www.veda.co.nz)
+				[www.veda.co.nz]
+
+				Vehicle Inspection New Zealand (VINZ) | 
+				Transport &amp; Logistics |
+				(http://vinz.co.nz)
+				[vinz.co.nz]
+
+				Vehicle Testing New Zealand Ltd (VTNZ) | 
+				Government (central) |
+				(https://vtnz.co.nz)
+				[vtnz.co.nz]
+
+				Vend Ltd | 
+				Information Technology |
+				(http://www.vendhq.com)
+				[www.vendhq.com]
+
+				Vero Insurance New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(https://www.vero.co.nz)
+				[www.vero.co.nz]
+
+				Vestas-New Zealand Wind Technology Limited | 
+				Water, Gas, Electricity |
+				(http://www.vestas.com)
+				[www.vestas.com]
+
+				Victoria University of Wellington | 
+				Education &amp; Training |
+				(http://www.victoria.ac.nz)
+				[www.victoria.ac.nz]
+
+				Viking Group Limited | 
+				Construction &amp; Building |
+				(http://www.containment.co.nz)
+				[www.containment.co.nz]
+
+				Viridian Glass Limited Partnership | 
+				Manufacturing |
+				(http://www.viridianglass.co.nz)
+				[www.viridianglass.co.nz]
+
+				Vista Entertainment Solutions Ltd | 
+				Information Technology |
+				(http://www.vistagroup.co.nz)
+				[www.vistagroup.co.nz]
+
+				Vodafone New Zealand | 
+				Telecommunications |
+				(http://www.vodafone.co.nz)
+				[www.vodafone.co.nz]
+
+				Volpara Health Technologies Ltd | 
+				Information Technology |
+				(http://www.volparasolutions.com)
+				[www.volparasolutions.com]
+
+				Waikato District Health Board (Waikato DHB) | 
+				Healthcare |
+				(http://www.waikatodhb.health.nz)
+				[www.waikatodhb.health.nz]
+
+				Waitemata District Health Board (Waitemata DHB) | 
+				Healthcare |
+				(http://www.waitematadhb.govt.nz)
+				[www.waitematadhb.govt.nz]
+
+				Waitomo District Council | 
+				Government (local) |
+				(http://www.waitomo.govt.nz)
+				[www.waitomo.govt.nz]
+
+				Wakefield Metals | 
+				Retail |
+				(http://www.wakefieldmetals.co.nz)
+				[www.wakefieldmetals.co.nz]
+
+				WaterCare Services Limited | 
+				Water, Gas, Electricity |
+				(http://www.watercare.co.nz)
+				[www.watercare.co.nz]
+
+				Waterforce limited | 
+				Water, Gas, Electricity |
+				(http://www.waterforce.co.nz)
+				[www.waterforce.co.nz]
+
+				Webster Drilling &amp; Exploration Ltd | 
+				Other |
+				(http://www.websterdrilling.com)
+				[www.websterdrilling.com]
+
+				WEL Networks Limited | 
+				Water, Gas, Electricity |
+				(http://www.wel.co.nz)
+				[www.wel.co.nz]
+
+				Wellington City Council | 
+				Government (local) |
+				(http://wellington.govt.nz)
+				[wellington.govt.nz]
+
+				Wells Instrument &amp; Electrical Services Limited | 
+				Water, Gas, Electricity |
+				(http://www.wells.co.nz)
+				[www.wells.co.nz]
+
+				Westland Co-operative Dairy Company Limited | 
+				Agriculture, Forestry and Fishing |
+				(http://www.westland.co.nz)
+				[www.westland.co.nz]
+
+				Westpac New Zealand Limited | 
+				Accounting, Finance &amp; Legal |
+				(http://www.westpac.co.nz)
+				[www.westpac.co.nz]
+
+				Weta Digital | 
+				Digital Media |
+				(https://www.wetafx.co.nz)
+				[www.wetafx.co.nz]
+
+				Whakatane Mill Limited | 
+				Manufacturing |
+				(http://www.whakatanemill.co.nz)
+				[www.whakatanemill.co.nz]
+
+				Whangarei District Council | 
+				Government (local) |
+				(http://www.wdc.govt.nzPages/Default.aspx)
+				[www.wdc.govt.nzPages]
+
+				Wilderness Motorhomes | 
+				Hospitality &amp; Tourism |
+				(http://wilderness.co.nz)
+				[wilderness.co.nz]
+
+				World Challenge Ltd | 
+				Hospitality &amp; Tourism |
+				(http://www.worldchallenge.co.nz)
+				[www.worldchallenge.co.nz]
+
+				Worley Parsons New Zealand Limited | 
+				Engineering |
+				(http://www.worleyparsons.com)
+				[www.worleyparsons.com]
+
+				WSP PB New Zealand Limited | 
+				Engineering |
+				(http://www.wsp-pb.comen/WSP-au-nz)
+				[www.wsp-pb.comen]
+
+				Xero Limited | 
+				Information Technology |
+				(https://www.xero.comnz)
+				[www.xero.comnz]
+
+				YL Protilers | 
+				Construction &amp; Building |
+				(https://www.ylprotilers.com)
+				[www.ylprotilers.com]
+
+				Zealandia Horticulture Limited | 
+				Horticulture &amp; Viticulture |
+				(http://www.zealandia.co.nzHome.aspx)
+				[www.zealandia.co.nzHome.aspx]
+
+				Zespri International Limited | 
+				Horticulture &amp; Viticulture |
+				(http://www.zespri.com)
+				[www.zespri.com]
