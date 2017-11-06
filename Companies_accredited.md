@@ -1,6 +1,6 @@
 # Companies Accredited
 
-This was a scrapy for the [gov website]()(http://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/accredited-employers-list) on 3/Nov/2017. Please use this with caution, because it can be out of date.
+This was a scrapy for the [gov website](http://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/accredited-employers-list) on 3/Nov/2017. Please use this with caution, because it can be out of date.
 
 If you get a job from any company from this list, it will help you about the visa.
 
