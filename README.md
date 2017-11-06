@@ -4,7 +4,7 @@ Mission: Connect Brazilians who work with IT in NZ and help those who want to be
 
 You can also check the [pretty version](https://shaybogomoltz.github.io/IT_BR_NZ/)
 
-So far we got those sections:
+So far we've got those sections:
 
 - [Linkedin profile of IT recruiters](/Linkedin_profile_of_IT_recruiters.md)
 - [Companies that usually don't advertise on Seek/Trademe](/Companies_that_usually_dont_advertise_on_SeekTrademe.md)
