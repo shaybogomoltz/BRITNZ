@@ -41,6 +41,7 @@ Luis Henrique Bekcer | SAP | [https://www.linkedin.com/in/luisbecker/](https://w
 Maikel Penz | Database | [https://www.linkedin.com/in/maikel-alexsander-penz-31050577/](https://www.linkedin.com/in/maikel-alexsander-penz-31050577/)
 Marcelo dos Anjos | Business Analyst| [https://www.linkedin.com/in/marcelotdosanjos/](https://www.linkedin.com/in/marcelotdosanjos/)
 Marcelo Rebello | Developer | [https://www.linkedin.com/in/marcelo-rebello/](https://www.linkedin.com/in/marcelo-rebello/)
+Marilia Basso | QA | [https://www.linkedin.com/in/mariliabasso/](https://www.linkedin.com/in/mariliabasso/)
 Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
 Maryene Muniz | QA| [https://www.linkedin.com/in/maryenemuniz/](https://www.linkedin.com/in/maryenemuniz/)
 Paula Teixeira | Support Analyst | [https://www.linkedin.com/in/paulateixeira/](https://www.linkedin.com/in/paulateixeira/)
