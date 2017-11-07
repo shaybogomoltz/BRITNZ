@@ -12,6 +12,6 @@ So far we've got those sections:
 - [Linkedin profile of IT Brazilians](Linkedin_profile_of_IT_Brazilians.md) (That actually works with IT)
 - [Groups](Groups.md) (Whatsapp, Facebook, Slack...)
 - [Companies accredited](Companies_accredited.md)
-- [Message for Invitation](message_for_invitation.md)
+- [Message for Invitation](Message_for_invitation.md)
 
 PS: Have you founded a broken link? Is there something that you can improve? Help us and yourself by editing this document. Don't know how to edit? send me a private message at shay.bogomoltz@gmail.com
