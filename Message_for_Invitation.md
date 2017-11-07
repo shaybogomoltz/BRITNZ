@@ -1,6 +1,6 @@
 # Message for invitation (IT Recruiters)
 
-**If you are going to send a connection request to an IT recrutier it's a good idea to add a note together. You will have a chance to introduce yourself and explain what are you looking for.
+** If you are going to send a connection request to an IT recrutier it's a good idea to add a note together. You will have a chance to introduce yourself and explain what are you looking for.
 
 Example 1:
 
