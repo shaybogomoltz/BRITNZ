@@ -1,7 +1,9 @@
 # Linkedin profile of IT recruiters
-**Before start adding them, write a good message to send together with the invitation. This will defintely open a good communication channel and will increase your chance of landing a job.**
 
-**If you need some ideas of how to introduce yourself you just take a look on some examples at [Message for invitation](Message_for_invitation.md).**
+
+Before start adding them, write a good message to send together with the invitation. This will defintely open a good communication channel and will increase your chance of landing a job.
+
+If you need some ideas of how to introduce yourself you just take a look on some examples at [Message for invitation](Message_for_invitation.md).
 
 
 * [https://www.linkedin.com/in/alricwright](https://www.linkedin.com/in/alricwright)
