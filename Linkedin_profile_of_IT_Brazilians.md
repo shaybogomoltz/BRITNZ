@@ -31,6 +31,7 @@ Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](http
 Gabriel M. M. Sestrem | Developer | [https://www.linkedin.com/in/gabriel-m-m-sestrem-4a952499/](https://www.linkedin.com/in/gabriel-m-m-sestrem-4a952499/)
 Gleisser Santos | Developer | [https://www.linkedin.com/in/gleisser/](https://www.linkedin.com/in/gleisser/)
 José Ricardo Coelho | Developer |[https://www.linkedin.com/in/josercoelho/](https://www.linkedin.com/in/josercoelho/)
+Klaus Harmatiuk | Network Administrator | [https://www.linkedin.com/in/klausharmatiuk/](https://www.linkedin.com/in/klausharmatiuk/)
 Leander Seefeld | Developer | [https://www.linkedin.com/in/leanseefeld/](https://www.linkedin.com/in/leanseefeld/)
 Leandro Oliveira | IT Consultancy | [https://www.linkedin.com/in/leandro-oliveira-03aa06b/](https://www.linkedin.com/in/leandro-oliveira-03aa06b/)
 Leonardo Gomes de Oliveira | Developer | [https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a](https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a)
