@@ -8,6 +8,7 @@ PS: Smart rules to reach out other Brazilians.
 3. Never start a conversation with "Can you give me a job?"
 4. Inviting a person for a coffee/beer, it will help you to create empathy.
 5. Better than asking for something is to create a real networking.
+6. When you are about to send an invitation to someone, first of all, introduce yourself.
 
 Name | Area | Linkedin
 --- | --- | ---
