@@ -14,6 +14,7 @@
 * [Place Recruitment ](http://www.placerecruitment.co.nz/)- http://www.placerecruitment.co.nz/ 
 * [Potentia](http://www.potentia.co.nz/) - http://www.potentia.co.nz/ 
 * [Recruit IT](http://www.recruitit.co.nz/ ) - http://www.recruitit.co.nz/ 
+* [RWA](https://www.rwa.co.nz/) - https://www.rwa.co.nz/
 * [Seek](http://jobs.seek.co.nz/) - http://jobs.seek.co.nz/ 
 * [SunStone](https://sunstonetalent.com/#journey ) - https://sunstonetalent.com/#journey 
 * [The Talent Hive](http://thetalenthive.co.nz/ ) - http://thetalenthive.co.nz/ 
