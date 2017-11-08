@@ -20,6 +20,7 @@ Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in
 Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
 Daniel Mariz | Developer | [https://www.linkedin.com/in/danielmariz/](https://www.linkedin.com/in/danielmariz/)
 Daniel Serra | Business Analyst | [https://www.linkedin.com/in/danielnaimserra/](https://www.linkedin.com/in/danielnaimserra/)
+Diego Sieg | Developer | [https://www.linkedin.com/in/diegosieg/](https://www.linkedin.com/in/diegosieg/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
 Eduardo Ponzoni | Integration Lead | [https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/](https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/) 
 Fabricio Crema | Support Engineer | [https://www.linkedin.com/in/fabriciocrema/](https://www.linkedin.com/in/fabriciocrema/)
