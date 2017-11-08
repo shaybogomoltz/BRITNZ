@@ -17,7 +17,7 @@
 * [GOOGLE](https://www.google.com/about/careers/jobs ) - https://www.google.com/about/careers/jobs 
 * [HP](http://h30631.www3.hp.com/) - http://h30631.www3.hp.com/ 
 * [IBM](http://www-07.ibm.com/employment/nz-en/) - http://www-07.ibm.com/employment/nz-en/ 
-* [KPMG]()https://jobs.lever.co/kpmgnz?by=location - https://jobs.lever.co/kpmgnz?by=location 
+* [KPMG](https://jobs.lever.co/kpmgnz?by=location) - https://jobs.lever.co/kpmgnz?by=location 
 * [MICROSOFT](https://careers.microsoft.com/search.aspx ) - https://careers.microsoft.com/search.aspx 
 * [MYOB](http://fsr.cvmail.com.au/myob/main.cfm ) - http://fsr.cvmail.com.au/myob/main.cfm 
 * [Oracle](https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en ) - https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en 
