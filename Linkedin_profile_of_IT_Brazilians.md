@@ -16,6 +16,7 @@ Alan Rodrigues Soares | Developer | [https://www.linkedin.com/in/alanrsoares/](h
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
 Andrei Shiniti Nakagawa | Developer | [https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/](https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/)
 Arnaldo Henrique Miranda | QA | [https://www.linkedin.com/in/arnaldo-henrique-miranda/](https://www.linkedin.com/in/arnaldo-henrique-miranda/)
+Bruno Baptistella	| Technical Project | [https://www.linkedin.com/in/bruno-baptistella-8720b44a/](https://www.linkedin.com/in/bruno-baptistella-8720b44a/)
 Caique Caleiro | Developer | [https://www.linkedin.com/in/caiquecaleiro/](https://www.linkedin.com/in/caiquecaleiro/)
 Camila Ferrari | Training Consultant | [https://www.linkedin.com/in/camila-ferrari-49a97571/](https://www.linkedin.com/in/camila-ferrari-49a97571/)
 Carla Frogel Weiss | Developer | [https://www.linkedin.com/in/carla-frogel-weiss-a2760648/](https://www.linkedin.com/in/carla-frogel-weiss-a2760648/)
