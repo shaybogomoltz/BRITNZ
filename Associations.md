@@ -1,5 +1,6 @@
 # Associations
-* An association is a good way to connect with other IT Specialist. In order to sign up you have to pay a fee (usually annually), but there are many benefits.*
+*** An association is a good way to connect with other IT Specialist. In order to sign up you have to pay a fee (usually annually), but there are many benefits, such as, events, training, certifications, promotions, networking, others.***
+
 
 * [AI Forum] (https://aiforum.org.nz/) - AI Forum New Zealand
 * [BANZ] (https://blockchain.org.nz/) - Blockchain Association New Zealand
