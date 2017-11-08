@@ -13,5 +13,6 @@ So far we've got those sections:
 - [Companies that usually don't advertise on Seek/Trademe](/Companies_that_usually_dont_advertise_on_SeekTrademe.md)
 - [Companies accredited](Companies_accredited.md)
 - [Groups](Groups.md) (Whatsapp, Facebook, Slack...)
+- [Associations](Associations.md)
 
 PS: Have you founded a broken link? Is there something that you can improve? Help us and yourself by editing this document. Don't know how to edit? send me a private message at shay.bogomoltz@gmail.com
