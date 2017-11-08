@@ -48,6 +48,7 @@ Marilia Basso | QA | [https://www.linkedin.com/in/mariliabasso/](https://www.lin
 Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
 Maryene Muniz | QA| [https://www.linkedin.com/in/maryenemuniz/](https://www.linkedin.com/in/maryenemuniz/)
 Matheus Baugmart | UX | [https://www.linkedin.com/in/matheusbaumgart/](https://www.linkedin.com/in/matheusbaumgart/)
+Osmar Silva | | [https://www.linkedin.com/in/osmarsilva/](https://www.linkedin.com/in/osmarsilva/)
 Paula Teixeira | Support Analyst | [https://www.linkedin.com/in/paulateixeira/](https://www.linkedin.com/in/paulateixeira/)
 Rafael Paiva | Developer| [https://www.linkedin.com/in/rafaelfpaiva/](https://www.linkedin.com/in/rafaelfpaiva/)
 Rebecca Pinheiro | Developer| [https://www.linkedin.com/in/rebecca-pinheiro/](https://www.linkedin.com/in/rebecca-pinheiro/)
