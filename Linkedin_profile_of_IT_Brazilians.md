@@ -35,6 +35,7 @@ Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](htt
 Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](https://www.linkedin.com/in/gavilches/)
 Gabriel M. M. Sestrem | Developer | [https://www.linkedin.com/in/gabriel-m-m-sestrem-4a952499/](https://www.linkedin.com/in/gabriel-m-m-sestrem-4a952499/)
 Gleisser Santos | Developer | [https://www.linkedin.com/in/gleisser/](https://www.linkedin.com/in/gleisser/)
+Gustavo Chiechelski	| Developer | [https://www.linkedin.com/in/gochiechelski/](https://www.linkedin.com/in/gochiechelski/)
 José Ricardo Coelho | Developer |[https://www.linkedin.com/in/josercoelho/](https://www.linkedin.com/in/josercoelho/)
 Kelly Goulart | Business Analyst / Project Manager | [https://www.linkedin.com/in/kellygoulart/](https://www.linkedin.com/in/kellygoulart/)
 Klaus Harmatiuk | Network Administrator | [https://www.linkedin.com/in/klausharmatiuk/](https://www.linkedin.com/in/klausharmatiuk/)
