@@ -25,6 +25,7 @@ Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto
 Eduardo Ponzoni | Integration Lead | [https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/](https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/) 
 Fabricio Crema | Support Engineer | [https://www.linkedin.com/in/fabriciocrema/](https://www.linkedin.com/in/fabriciocrema/)
 Felipe Chaves Frossard | IT Consultancy | [https://www.linkedin.com/in/fcfrossard/](https://www.linkedin.com/in/fcfrossard/)
+Fernando Maximo Ferreira | BI | [https://www.linkedin.com/in/fernando-maximo-ferreira/](https://www.linkedin.com/in/fernando-maximo-ferreira/)
 Fernando Paz | Developer| [https://www.linkedin.com/in/fernando-paz/](https://www.linkedin.com/in/fernando-paz/)
 Fernando Salomão | Cloud | [https://www.linkedin.com/in/fernandosalomao/](https://www.linkedin.com/in/fernandosalomao/)
 Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](https://www.linkedin.com/in/uderson1/)
