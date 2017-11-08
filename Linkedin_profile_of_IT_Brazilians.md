@@ -18,6 +18,7 @@ Andrei Shiniti Nakagawa | Developer | [https://www.linkedin.com/in/andrei-shinit
 Arnaldo Henrique Miranda | QA | [https://www.linkedin.com/in/arnaldo-henrique-miranda/](https://www.linkedin.com/in/arnaldo-henrique-miranda/)
 Caique Caleiro | Developer | [https://www.linkedin.com/in/caiquecaleiro/](https://www.linkedin.com/in/caiquecaleiro/)
 Camila Ferrari | Training Consultant | [https://www.linkedin.com/in/camila-ferrari-49a97571/](https://www.linkedin.com/in/camila-ferrari-49a97571/)
+Carla Frogel Weiss | Developer | [https://www.linkedin.com/in/carla-frogel-weiss-a2760648/](https://www.linkedin.com/in/carla-frogel-weiss-a2760648/)
 Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in/cebraga/](https://www.linkedin.com/in/cebraga/)
 Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
 Daniel Mariz | Developer | [https://www.linkedin.com/in/danielmariz/](https://www.linkedin.com/in/danielmariz/)
