@@ -36,6 +36,7 @@ Fernando Salomão | Cloud | [https://www.linkedin.com/in/fernandosalomao/](https
 Francisco Uderson | Support Analyst| [https://www.linkedin.com/in/uderson1/](https://www.linkedin.com/in/uderson1/)
 Gabriel Alves Vilches | Developer| [https://www.linkedin.com/in/gavilches/](https://www.linkedin.com/in/gavilches/)
 Gabriel M. M. Sestrem | Developer | [https://www.linkedin.com/in/gabriel-m-m-sestrem-4a952499/](https://www.linkedin.com/in/gabriel-m-m-sestrem-4a952499/)
+Gabriel Sotero Wansson | Developer | [https://www.linkedin.com/in/gwansson/](https://www.linkedin.com/in/gwansson/)
 Gleisser Santos | Developer | [https://www.linkedin.com/in/gleisser/](https://www.linkedin.com/in/gleisser/)
 Gustavo Chiechelski	| Developer | [https://www.linkedin.com/in/gochiechelski/](https://www.linkedin.com/in/gochiechelski/)
 José Ricardo Coelho | Developer |[https://www.linkedin.com/in/josercoelho/](https://www.linkedin.com/in/josercoelho/)
