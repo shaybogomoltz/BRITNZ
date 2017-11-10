@@ -22,6 +22,7 @@ Camila Ferrari | Training Consultant | [https://www.linkedin.com/in/camila-ferra
 Camila Fracaro | Data Analyst | [https://www.linkedin.com/in/camila-fracaro-39089384/](https://www.linkedin.com/in/camila-fracaro-39089384/)
 Carla Frogel Weiss | Developer | [https://www.linkedin.com/in/carla-frogel-weiss-a2760648/](https://www.linkedin.com/in/carla-frogel-weiss-a2760648/)
 Carlos Braga | Business Analyst / Project Manager | [https://www.linkedin.com/in/cebraga/](https://www.linkedin.com/in/cebraga/)
+Clarissa Cortes Pires | Agile Coach | [https://www.linkedin.com/in/clarissa-c%C3%B4rtes-pires-398bb69/](https://www.linkedin.com/in/clarissa-c%C3%B4rtes-pires-398bb69/)
 Cybele Freitas | Business Analyst | [https://www.linkedin.com/in/cybele-freitas-16141527/](https://www.linkedin.com/in/cybele-freitas-16141527/)
 Daniel Mariz | Developer | [https://www.linkedin.com/in/danielmariz/](https://www.linkedin.com/in/danielmariz/)
 Daniel Serra | Business Analyst | [https://www.linkedin.com/in/danielnaimserra/](https://www.linkedin.com/in/danielnaimserra/)
