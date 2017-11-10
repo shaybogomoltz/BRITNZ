@@ -40,6 +40,7 @@ Gabriel Sotero Wansson | Developer | [https://www.linkedin.com/in/gwansson/](htt
 Gleisser Santos | Developer | [https://www.linkedin.com/in/gleisser/](https://www.linkedin.com/in/gleisser/)
 Gustavo Chiechelski	| Developer | [https://www.linkedin.com/in/gochiechelski/](https://www.linkedin.com/in/gochiechelski/)
 José Ricardo Coelho | Developer |[https://www.linkedin.com/in/josercoelho/](https://www.linkedin.com/in/josercoelho/)
+José Roberto Almaraz | Oracle | [https://www.linkedin.com/in/jos%C3%A9-roberto-almar%C3%A1z-da-cunha-j%C3%BAn-18515658/](https://www.linkedin.com/in/jos%C3%A9-roberto-almar%C3%A1z-da-cunha-j%C3%BAn-18515658/)
 Kelly Goulart | Business Analyst / Project Manager | [https://www.linkedin.com/in/kellygoulart/](https://www.linkedin.com/in/kellygoulart/)
 Klaus Harmatiuk | Network Administrator | [https://www.linkedin.com/in/klausharmatiuk/](https://www.linkedin.com/in/klausharmatiuk/)
 Leander Seefeld | Developer | [https://www.linkedin.com/in/leanseefeld/](https://www.linkedin.com/in/leanseefeld/)
