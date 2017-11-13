@@ -12,7 +12,7 @@ PS: Smart rules to reach out other Brazilians.
 
 Name | Area | Linkedin
 --- | --- | ---
-Abílio Bueno de Oliveira Neto | Cloud | [https://www.linkedin.com/in/abílio-bueno-de-oliveira-neto-b7b65](https://www.linkedin.com/in/abílio-bueno-de-oliveira-neto-b7b65)
+Abílio Bueno de Oliveira Neto | Cloud Storage | [https://www.linkedin.com/in/abílio-bueno-de-oliveira-neto-b7b65](https://www.linkedin.com/in/abílio-bueno-de-oliveira-neto-b7b65)
 Alan Rodrigues Soares | Developer | [https://www.linkedin.com/in/alanrsoares/](https://www.linkedin.com/in/alanrsoares/)
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
 Andrei Shiniti Nakagawa | Developer | [https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/](https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/)
