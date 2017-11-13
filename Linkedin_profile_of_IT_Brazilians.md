@@ -63,7 +63,7 @@ Marcelo Tamanini | Developer | [https://www.linkedin.com/in/marcelotamanini/](ht
 Marilia Basso | QA | [https://www.linkedin.com/in/mariliabasso/](https://www.linkedin.com/in/mariliabasso/)
 Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
 Maryene Muniz | QA| [https://www.linkedin.com/in/maryenemuniz/](https://www.linkedin.com/in/maryenemuniz/)
-Matheus Baugmart | UX | [https://www.linkedin.com/in/matheusbaumgart/](https://www.linkedin.com/in/matheusbaumgart/)
+Matheus Baugmart | Front-end Dev / UI/UX | [https://www.linkedin.com/in/matheusbaumgart/](https://www.linkedin.com/in/matheusbaumgart/)
 Osmar Silva |System Engineer | [https://www.linkedin.com/in/osmarsilva/](https://www.linkedin.com/in/osmarsilva/)
 Paula Teixeira | Support Analyst | [https://www.linkedin.com/in/paulateixeira/](https://www.linkedin.com/in/paulateixeira/)
 Rafael Paiva | Developer| [https://www.linkedin.com/in/rafaelfpaiva/](https://www.linkedin.com/in/rafaelfpaiva/)
