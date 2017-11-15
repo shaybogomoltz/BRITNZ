@@ -57,6 +57,7 @@ Lucas Possamai | Database | [https://www.linkedin.com/in/lucaspossamai/](https:/
 Luis Henrique Bekcer | SAP | [https://www.linkedin.com/in/luisbecker/](https://www.linkedin.com/in/luisbecker/)
 Luiz Otavio Mendes Jr. | Cloud Consultant | [https://www.linkedin.com/in/luizmendesjr/](https://www.linkedin.com/in/luizmendesjr/)
 Maikel Penz | Database | [https://www.linkedin.com/in/maikel-alexsander-penz-31050577/](https://www.linkedin.com/in/maikel-alexsander-penz-31050577/)
+Marcelo Ferraz | Developer | [https://www.linkedin.com/in/marceloferraz/](https://www.linkedin.com/in/marceloferraz/)
 Marcelo dos Anjos | Business Analyst| [https://www.linkedin.com/in/marcelotdosanjos/](https://www.linkedin.com/in/marcelotdosanjos/)
 Marcelo Rebello | Developer | [https://www.linkedin.com/in/marcelo-rebello/](https://www.linkedin.com/in/marcelo-rebello/)
 Marcelo Tamanini | Developer | [https://www.linkedin.com/in/marcelotamanini/](https://www.linkedin.com/in/marcelotamanini/)
