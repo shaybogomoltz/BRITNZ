@@ -71,6 +71,7 @@ Rafael Paiva | Developer| [https://www.linkedin.com/in/rafaelfpaiva/](https://ww
 Raphael Borborema | System Engineer | [https://www.linkedin.com/in/raphaelborborema/](https://www.linkedin.com/in/raphaelborborema/)
 Rebecca Pinheiro | Developer| [https://www.linkedin.com/in/rebecca-pinheiro/](https://www.linkedin.com/in/rebecca-pinheiro/)
 Ricardo Rauber | Software Architech| [https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/](https://www.linkedin.com/in/ricardo-rauber-csm-csd-69051a14/)
+Rico Monteiro | UI/UX | [https://www.linkedin.com/in/ricomonteiro/](https://www.linkedin.com/in/ricomonteiro/)
 Rodrigo Brandão Carneiro | Security | [https://www.linkedin.com/in/rbrandao/](https://www.linkedin.com/in/rbrandao/)
 Rovian Voelz Veronez | Developer | [https://www.linkedin.com/in/rovianvz/](https://www.linkedin.com/in/rovianvz/)
 Samir Itani | Support Analyst | [https://www.linkedin.com/in/sitani/](https://www.linkedin.com/in/sitani/)
