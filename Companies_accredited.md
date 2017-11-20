@@ -4,7 +4,7 @@ This was a scrapy for the [gov website](http://www.immigration.govt.nz/new-zeala
 
 If you get a job from any company from this list, it will help you about the visa.
 
-Name |rea |ink
+Name |Area |Link
 --- |-- |--
 2 Degrees Mobile Ltd | Telecommunications | [https://www.2degreesmobile.co.nz/](http://www.2degreesmobile.co.nz/)
 8i | Digital Media | [http://8i.com](http://8i.com)
