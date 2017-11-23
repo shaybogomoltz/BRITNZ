@@ -1,6 +1,6 @@
 # Salary Report
 
-**This section is where you can find all "oficial information" about salary (and benefits) for IT specialist.**
+**This section is where you can find clues about salary (and benefits) for IT specialist.**
 
 Font | Link
 --- | --- 
