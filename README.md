@@ -14,5 +14,6 @@ So far we've got those sections:
 - [Companies accredited](Companies_accredited.md)
 - [Groups](Groups.md) (Whatsapp, Facebook, Slack...)
 - [Associations](Associations.md)
+- [Salary Reports](Salary_Report.md)
 
 PS: Have you founded a broken link? Is there something that you can improve? Help us and yourself by editing this document. Don't know how to edit? send me a private message at shay.bogomoltz@gmail.com
