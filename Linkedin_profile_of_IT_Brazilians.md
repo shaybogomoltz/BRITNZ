@@ -86,3 +86,4 @@ Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-s
 Vitor Diniz | Developer | [https://www.linkedin.com/in/vitordiniz/](https://www.linkedin.com/in/vitordiniz/)
 William G. Comnisky | Developer | [https://www.linkedin.com/in/wcomnisky/](https://www.linkedin.com/in/wcomnisky/)
 Yuri Cardoso | Developer | [https://www.linkedin.com/in/yuricardoso/](https://www.linkedin.com/in/yuricardoso/)
+Yuri Vasconcelos | Developer | [https://www.linkedin.com/in/yurivasconcelos/](https://www.linkedin.com/in/yurivasconcelos/)
