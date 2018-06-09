@@ -43,6 +43,7 @@ Gabriel M. M. Sestrem | Developer | [https://www.linkedin.com/in/gabriel-m-m-ses
 Gabriel Sotero Wansson | Developer | [https://www.linkedin.com/in/gwansson/](https://www.linkedin.com/in/gwansson/)
 Gleisser Santos | Developer | [https://www.linkedin.com/in/gleisser/](https://www.linkedin.com/in/gleisser/)
 Gustavo Chiechelski	| Developer | [https://www.linkedin.com/in/gochiechelski/](https://www.linkedin.com/in/gochiechelski/)
+Hely Lopes | UI/UX | [https://www.linkedin.com/in/hely-lopes/](https://www.linkedin.com/in/hely-lopes/)
 Hugo Nakagawa | Tester  | [https://www.linkedin.com/in/hugonakagawa/](https://www.linkedin.com/in/hugonakagawa/)
 José Ricardo Coelho | Developer |[https://www.linkedin.com/in/josercoelho/](https://www.linkedin.com/in/josercoelho/)
 José Roberto Almaraz | Oracle | [https://www.linkedin.com/in/jos%C3%A9-roberto-almar%C3%A1z-da-cunha-j%C3%BAn-18515658/](https://www.linkedin.com/in/jos%C3%A9-roberto-almar%C3%A1z-da-cunha-j%C3%BAn-18515658/)
