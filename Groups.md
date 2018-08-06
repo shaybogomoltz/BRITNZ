@@ -13,3 +13,6 @@
 
 ### Slack
 * [IT.BRs - New Zealand](https://join-itbrs-slack.herokuapp.com) - https://join-itbrs-slack.herokuapp.com
+
+### Telegram
+* [T.I NZ Nova Zelândia](https://t.me/joinchat/CIkA51MLjd6wVZ1Fr04FGA) - https://t.me/joinchat/CIkA51MLjd6wVZ1Fr04FGA
