@@ -9,6 +9,7 @@
 ### Facebook
 * [IT.BRs - New Zealand](https://www.facebook.com/groups/itbrs.newzealand) - https://www.facebook.com/groups/itbrs.newzealand
 * [Mulheres Brasileiras Em TI - Nova Zelândia](https://www.facebook.com/groups/1411463188901256) - https://www.facebook.com/groups/1411463188901256
+* [TI Na Nova Zelândia](https://www.facebook.com/groups/tinanovazelandia/) - https://www.facebook.com/groups/tinanovazelandia/
 
 ### Slack
 * [IT.BRs - New Zealand](https://join-itbrs-slack.herokuapp.com) - https://join-itbrs-slack.herokuapp.com
