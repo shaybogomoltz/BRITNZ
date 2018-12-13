@@ -14,6 +14,7 @@ Name | Area | Linkedin
 --- | --- | ---
 Abílio Bueno de Oliveira Neto | Cloud Storage | [https://www.linkedin.com/in/abílio-bueno-de-oliveira-neto-b7b65](https://www.linkedin.com/in/abílio-bueno-de-oliveira-neto-b7b65)
 Alan Rodrigues Soares | Developer | [https://www.linkedin.com/in/alanrsoares/](https://www.linkedin.com/in/alanrsoares/)
+Alexandre Hiramatsu | IT Consultant | [https://www.linkedin.com/in/alexandre-hiramatsu/](https://www.linkedin.com/in/alexandre-hiramatsu/)
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
 Andrei Shiniti Nakagawa | Developer | [https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/](https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/)
 Arnaldo Henrique Miranda | QA | [https://www.linkedin.com/in/arnaldo-henrique-miranda/](https://www.linkedin.com/in/arnaldo-henrique-miranda/)
@@ -50,7 +51,7 @@ José Roberto Almaraz | Oracle | [https://www.linkedin.com/in/jos%C3%A9-roberto-
 Kelly Goulart | Business Analyst / Project Manager | [https://www.linkedin.com/in/kellygoulart/](https://www.linkedin.com/in/kellygoulart/)
 Klaus Harmatiuk | Network Administrator | [https://www.linkedin.com/in/klausharmatiuk/](https://www.linkedin.com/in/klausharmatiuk/)
 Leander Seefeld | Developer | [https://www.linkedin.com/in/leanseefeld/](https://www.linkedin.com/in/leanseefeld/)
-Leandro Oliveira | IT Consultancy | [https://www.linkedin.com/in/leandro-oliveira-03aa06b/](https://www.linkedin.com/in/leandro-oliveira-03aa06b/)
+Leandro Oliveira | ServiceNow | [https://www.linkedin.com/in/leandro-oliveira-03aa06b/](https://www.linkedin.com/in/leandro-oliveira-03aa06b/)
 Leonardo Gomes de Oliveira | Developer | [https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a](https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a)
 Leonardo Machado | Developer | [https://www.linkedin.com/in/lmachado/](https://www.linkedin.com/in/lmachado/)
 Lucas Carreira | Product Owner | [https://www.linkedin.com/in/lucascarreira/](https://www.linkedin.com/in/lucascarreira/)
