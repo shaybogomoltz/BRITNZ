@@ -88,5 +88,6 @@ Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linke
 Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-silva-50963923/](https://www.linkedin.com/in/vinicius-da-silva-50963923/)
 Vitor Diniz | Developer | [https://www.linkedin.com/in/vitordiniz/](https://www.linkedin.com/in/vitordiniz/)
 William G. Comnisky | Developer | [https://www.linkedin.com/in/wcomnisky/](https://www.linkedin.com/in/wcomnisky/)
+William Remor | Business Analyst / Data Analyst | [https://www.linkedin.com/in/william-remor-29149934/](https://www.linkedin.com/in/william-remor-29149934/)
 Yuri Cardoso | Developer | [https://www.linkedin.com/in/yuricardoso/](https://www.linkedin.com/in/yuricardoso/)
 Yuri Vasconcelos | Developer | [https://www.linkedin.com/in/yurivasconcelos/](https://www.linkedin.com/in/yurivasconcelos/)
