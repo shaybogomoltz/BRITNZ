@@ -399,6 +399,7 @@ Ogilvy New Zealand Limited | Advertising, Media, PR | [http://ogilvy.co.nz/](htt
 Oji Fibre Solutions (http://NZ) Ltd | Manufacturing | [http://www.ojifs.com](http://www.ojifs.com)
 OMV New Zealand Limited | Engineering | [http://www.omv.comportal/01/com](http://www.omv.comportal)
 Open Country Dairy Ltd | Agriculture, Forestry and Fishing | [http://www.opencountry.co.nz/](http://www.opencountry.co.nz/)
+Optimation | | [https://www.optimation.co.nz/] (https://www.optimation.co.nz/)
 Opus International Consultants Ltd | Engineering | [http://www.opus.co.nz/](http://www.opus.co.nz/)
 Oracle New Zealand Unlimited | Information Technology | [https://www.oracle.comnzindex.html](http://www.oracle.comnzindex.html)
 OraHQ Limited | Advertising, Media, PR | [https://orahq.com](http://orahq.com)
