@@ -19,8 +19,7 @@ Alexandre Hiramatsu | IT Consultant | [https://www.linkedin.com/in/alexandre-hir
 Alonso Coutinho Licks | Product Analyst | [https://www.linkedin.com/in/alonsolicks/](https://www.linkedin.com/in/alonsolicks/)
 Andrei Shiniti Nakagawa | Developer | [https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/](https://www.linkedin.com/in/andrei-shiniti-nakagawa-28bb0735/)
 Andreia Alcantara | License Verification Program Consultant | [https://www.linkedin.com/in/andreiaalcantara/](https://www.linkedin.com/in/andreiaalcantara/)
-Antonella D'Aquino | Software Developer | [https://www.linkedin.com/in/antonella-d-aquino-2931855a/
-](https://www.linkedin.com/in/antonella-d-aquino-2931855a/)
+Antonella D'Aquino | Software Developer | [https://www.linkedin.com/in/antonella-d-aquino-2931855a/](https://www.linkedin.com/in/antonella-d-aquino-2931855a/)
 Arnaldo Henrique Miranda | QA | [https://www.linkedin.com/in/arnaldo-henrique-miranda/](https://www.linkedin.com/in/arnaldo-henrique-miranda/)
 Barbara Marengo | Head of Marketing | [https://www.linkedin.com/in/barbara-marengo-1229a295/](https://www.linkedin.com/in/barbara-marengo-1229a295/)
 Bruno Baptistella	| Technical Project | [https://www.linkedin.com/in/bruno-baptistella-8720b44a/](https://www.linkedin.com/in/bruno-baptistella-8720b44a/)
@@ -82,8 +81,7 @@ Matheus Baugmart | Front-end Dev / UI/UX | [https://www.linkedin.com/in/matheusb
 Michele Trindade | SAP | [https://www.linkedin.com/in/micheletrindade/](https://www.linkedin.com/in/micheletrindade/)
 Osmar Silva |System Engineer | [https://www.linkedin.com/in/osmarsilva/](https://www.linkedin.com/in/osmarsilva/)
 Paula Teixeira | Support Analyst | [https://www.linkedin.com/in/paulateixeira/](https://www.linkedin.com/in/paulateixeira/)
-Priscila Bernardes | Head of Sales & Marketing | [https://www.linkedin.com/in/priscila-bernardes/]
-(https://www.linkedin.com/in/priscila-bernardes/)
+Priscila Bernardes | Head of Sales & Marketing | [https://www.linkedin.com/in/priscila-bernardes/](https://www.linkedin.com/in/priscila-bernardes/)
 Rafael Paiva | Developer| [https://www.linkedin.com/in/rafaelfpaiva/](https://www.linkedin.com/in/rafaelfpaiva/)
 Raphael Borborema | System Engineer | [https://www.linkedin.com/in/raphaelborborema/](https://www.linkedin.com/in/raphaelborborema/)
 Rebecca Pinheiro | Developer| [https://www.linkedin.com/in/rebecca-pinheiro/](https://www.linkedin.com/in/rebecca-pinheiro/)
@@ -95,8 +93,7 @@ Samir Itani | Support Analyst | [https://www.linkedin.com/in/sitani/](https://ww
 Sandra Rossi | SAP | [https://www.linkedin.com/in/sandra-rossi-2716571b/](https://www.linkedin.com/in/sandra-rossi-2716571b/)
 Saulo Araujo | Systems Engineer | [https://www.linkedin.com/in/saulov8/](https://www.linkedin.com/in/saulov8/)
 Shay Camlot Bogomoltz | IT Consultancy| [https://www.linkedin.com/in/shaycb/](https://www.linkedin.com/in/shaycb/)
-Tatiana Midori Morimoto | Front-end developer, UX/UI Designer | [https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/]
-(https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/)
+Tatiana Midori Morimoto | Front-end developer, UX/UI Designer | [https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/](https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/)
 Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linkedin.com/in/nessalaluna)
 Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-silva-50963923/](https://www.linkedin.com/in/vinicius-da-silva-50963923/)
 Vitor Diniz | Developer | [https://www.linkedin.com/in/vitordiniz/](https://www.linkedin.com/in/vitordiniz/)
