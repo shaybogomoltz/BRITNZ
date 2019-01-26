@@ -13,6 +13,7 @@
 * [OCG](http://www.ocg.co.nz/technology ) - http://www.ocg.co.nz/technology 
 * [Place Recruitment ](http://www.placerecruitment.co.nz/)- http://www.placerecruitment.co.nz/ 
 * [Potentia](http://www.potentia.co.nz/) - http://www.potentia.co.nz/ 
+* [Presto Resourcing](http://prestoresourcing.co.nz/) - http://prestoresourcing.co.nz/  
 * [Recruit IT](http://www.recruitit.co.nz/ ) - http://www.recruitit.co.nz/ 
 * [RWA](https://www.rwa.co.nz/) - https://www.rwa.co.nz/
 * [Seek](http://jobs.seek.co.nz/) - http://jobs.seek.co.nz/ 
