@@ -75,6 +75,7 @@ If you need some ideas of how to introduce yourself you just take a look on some
 * [https://www.linkedin.com/in/sian-clements-97836338/](https://www.linkedin.com/in/sian-clements-97836338/)
 * [https://www.linkedin.com/in/shams-shiraz-6bb96524](https://www.linkedin.com/in/shams-shiraz-6bb96524)
 * [https://www.linkedin.com/in/shweta-chopra-4675024](https://www.linkedin.com/in/hweta-chopra-4675024)
+* [https://www.linkedin.com/in/simone-senff-50208416/](https://www.linkedin.com/in/simone-senff-50208416/) - (Brasileira)
 * [https://www.linkedin.com/in/subbudesu](https://www.linkedin.com/in/subbudesu)
 * [https://www.linkedin.com/in/surabhithareja/](https://www.linkedin.com/in/surabhithareja/)
 * [https://www.linkedin.com/in/tash-silva-055089102](https://www.linkedin.com/in/tash-silva-055089102)
