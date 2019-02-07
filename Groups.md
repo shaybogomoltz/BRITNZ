@@ -14,3 +14,6 @@
 
 ### Telegram
 * [T.I NZ Nova Zelândia](https://t.me/joinchat/CIkA51MLjd6wVZ1Fr04FGA) - https://t.me/joinchat/CIkA51MLjd6wVZ1Fr04FGA
+
+### Personal blogs
+* [T.I na Nova Zelândia :: BLOG](https://www.lpossamai.com/tinanz/) - https://www.lpossamai.com/tinanz/
