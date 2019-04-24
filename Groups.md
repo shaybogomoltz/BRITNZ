@@ -3,6 +3,8 @@
 
 ### Whatsapp
 * [IT Nova Zelandia](https://chat.whatsapp.com/8gB5LHqEbQg8B4RX2c8gRW) - https://chat.whatsapp.com/8gB5LHqEbQg8B4RX2c8gRW
+* [TI New Zealand](https://chat.whatsapp.com/HewtBl8cerfJD3QLByYd0d) - https://chat.whatsapp.com/HewtBl8cerfJD3QLByYd0d
+* [IT NZ](https://chat.whatsapp.com/HRtJqH8WdiJ6KYYc8YrZHL) - https://chat.whatsapp.com/HRtJqH8WdiJ6KYYc8YrZHL
 
 ### Facebook
 * [IT.BRs - New Zealand](https://www.facebook.com/groups/itbrs.newzealand) - https://www.facebook.com/groups/itbrs.newzealand
@@ -10,9 +12,6 @@
 
 ### Slack
 * [IT.BRs - New Zealand](https://join-itbrs-slack.herokuapp.com) - https://join-itbrs-slack.herokuapp.com
-
-### Telegram
-* [T.I NZ Nova Zelândia](https://t.me/joinchat/CIkA51MLjd6wVZ1Fr04FGA) - https://t.me/joinchat/CIkA51MLjd6wVZ1Fr04FGA
 
 ### Personal blogs
 * [T.I na Nova Zelândia :: BLOG](https://www.lpossamai.com/tinanz/) - https://www.lpossamai.com/tinanz/
