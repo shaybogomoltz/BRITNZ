@@ -21,5 +21,5 @@
 
 ### Personal blogs
 * [NZ for Dummies](https://docs.google.com/document/d/1MDp2ymvvHPphUACJD9o_C0-5fXi-VtdRqVqeZWdr2Ns/edit) - https://docs.google.com/document/d/1MDp2ymvvHPphUACJD9o_C0-5fXi-VtdRqVqeZWdr2Ns/edit
-* [T.I na Nova Zelândia :: BLOG](https://www.lpossamai.com/tinanz/) - https://www.lpossamai.com/tinanz/
+* [T.I na Nova Zelândia :: BLOG](https://www.lpossamai.com/lpossamaiblog/) - https://www.lpossamai.com/lpossamaiblog/
 
