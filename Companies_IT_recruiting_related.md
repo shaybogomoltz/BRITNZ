@@ -8,7 +8,8 @@
 * [Comspek](http://comspek.co.nz/candidate-services/) - http://comspek.co.nz/candidate-services/ 
 * [Crescent Consulting](http://www.crescent.co.nz/ ) - http://www.crescent.co.nz/ 
 * [Greenligh Recruitment ](https://www.greenlightrecruitment.co.nz/)- https://www.greenlightrecruitment.co.nz/ 
-* [Hays](http://www.hays.net.nz/index.htm) - http://www.hays.net.nz/index.htm 
+* [Hays](http://www.hays.net.nz/index.htm) - http://www.hays.net.nz/index.htm
+* [Hyre](https://www.hyre.nz/) - https://www.hyre.nz/
 * [Hudson](http://nz.hudson.com/ ) - http://nz.hudson.com/ 
 * [OCG](http://www.ocg.co.nz/technology ) - http://www.ocg.co.nz/technology 
 * [Place Recruitment ](http://www.placerecruitment.co.nz/)- http://www.placerecruitment.co.nz/ 
