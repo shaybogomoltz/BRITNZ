@@ -4,6 +4,9 @@
 ### Meetup
 * [Brazil IT NZ](https://meetup.com/Brazil-IT-NZ/) - https://meetup.com/Brazil-IT-NZ/
 
+### LinkedIn
+* [Brazil IT NZ](https://www.linkedin.com/groups/13709620/) - https://www.linkedin.com/groups/13709620/
+
 ### Whatsapp
 * [IT Nova Zelandia](https://chat.whatsapp.com/CiP6oNoyaXkJYXe0j7Ccml) - https://chat.whatsapp.com/CiP6oNoyaXkJYXe0j7Ccml
 * [TI New Zealand](https://chat.whatsapp.com/HewtBl8cerfJD3QLByYd0d) - https://chat.whatsapp.com/HewtBl8cerfJD3QLByYd0d
