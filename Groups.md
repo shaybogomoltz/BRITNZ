@@ -5,7 +5,7 @@
 * [Brazil IT NZ](https://meetup.com/Brazil-IT-NZ/) - https://meetup.com/Brazil-IT-NZ/
 
 ### Whatsapp
-* [IT Nova Zelandia](https://chat.wh#atsapp.com/8gB5LHqEbQg8B4RX2c8gRW) - https://chat.whatsapp.com/8gB5LHqEbQg8B4RX2c8gRW
+* [IT Nova Zelandia](https://chat.whatsapp.com/CiP6oNoyaXkJYXe0j7Ccml) - https://chat.whatsapp.com/CiP6oNoyaXkJYXe0j7Ccml
 * [TI New Zealand](https://chat.whatsapp.com/HewtBl8cerfJD3QLByYd0d) - https://chat.whatsapp.com/HewtBl8cerfJD3QLByYd0d
 * [IT NZ](https://chat.whatsapp.com/HRtJqH8WdiJ6KYYc8YrZHL) - https://chat.whatsapp.com/HRtJqH8WdiJ6KYYc8YrZHL
 
