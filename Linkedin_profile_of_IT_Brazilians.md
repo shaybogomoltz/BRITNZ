@@ -96,6 +96,7 @@ Sandra Rossi | SAP | [https://www.linkedin.com/in/sandra-rossi-2716571b/](https:
 Saulo Araujo | Systems Engineer | [https://www.linkedin.com/in/saulov8/](https://www.linkedin.com/in/saulov8/)
 Shay Camlot Bogomoltz | IT Consultancy| [https://www.linkedin.com/in/shaycb/](https://www.linkedin.com/in/shaycb/)
 Tatiana Midori Morimoto | Front-end developer, UX/UI Designer | [https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/](https://www.linkedin.com/in/tatiana-midori-morimoto-22062873/)
+Toni Rossmann | Full-Stack Developer | [https://www.linkedin.com/in/tonirossmann/](https://www.linkedin.com/in/tonirossmann/)
 Vanessa La Luna | QA | [https://nz.linkedin.com/in/nessalaluna](https://nz.linkedin.com/in/nessalaluna)
 Vinicius Paiva da Silva | Developer | [https://www.linkedin.com/in/vinicius-da-silva-50963923/](https://www.linkedin.com/in/vinicius-da-silva-50963923/)
 Vitor Diniz | Developer | [https://www.linkedin.com/in/vitordiniz/](https://www.linkedin.com/in/vitordiniz/)
