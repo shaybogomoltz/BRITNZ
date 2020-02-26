@@ -66,7 +66,7 @@ Lucas Barcellos Victoria | Business Analyst | [https://www.linkedin.com/in/lucas
 Lucas Carreira | Product Owner | [https://www.linkedin.com/in/lucascarreira/](https://www.linkedin.com/in/lucascarreira/)
 Lucas Costa | SAP | [https://www.linkedin.com/in/lucas-costa-59745b2b/](https://www.linkedin.com/in/lucas-costa-59745b2b/)
 Lucas Nishimura | Support Analyst| [https://www.linkedin.com/in/lucas-nishimura/](https://www.linkedin.com/in/lucas-nishimura/)
-Lucas Possamai | DevOps Engineer | [https://www.linkedin.com/in/lucaspossamai/](https://www.linkedin.com/in/lucaspossamai/)
+Lucas Possamai | Cloud Engineer | [https://www.linkedin.com/in/lucaspossamai/](https://www.linkedin.com/in/lucaspossamai/)
 Luciano Moura | Software Asset Management Consultant | [https://www.linkedin.com/in/lmoura/](https://www.linkedin.com/in/lmoura/)
 Luis Henrique Bekcer | SAP | [https://www.linkedin.com/in/luisbecker/](https://www.linkedin.com/in/luisbecker/)
 Luiz Otavio Mendes Jr. | Cloud Consultant | [https://www.linkedin.com/in/luizmendesjr/](https://www.linkedin.com/in/luizmendesjr/)
