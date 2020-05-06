@@ -1,4 +1,4 @@
-# IT_BR_NZ
+# BRITNZ
 
 Mission: Connect Brazilians who work with IT in NZ and help those who want to become one.
 
