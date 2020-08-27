@@ -3,6 +3,7 @@
 
 
 * [Absolute IT](https://www.absoluteit.co.nz/ ) - https://www.absoluteit.co.nz/ 
+* [Alpha Recruitment](https://www.alphajobs.co.nz) - https://www.alphajobs.co.nz
 * [Candle](http://www.candle.co.nz/ ) - http://www.candle.co.nz/ 
 * [CareerJet](http://www.careerjet.co.nz/) - http://www.careerjet.co.nz/ 
 * [Comspek](http://comspek.co.nz/candidate-services/) - http://comspek.co.nz/candidate-services/ 
