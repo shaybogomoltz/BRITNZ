@@ -55,6 +55,7 @@ Hugo Nakagawa | Tester  | [https://www.linkedin.com/in/hugonakagawa/](https://ww
 Igor Rezende | Service Delivery Coordinator | [https://www.linkedin.com/in/igor-rezende-967859106/](https://www.linkedin.com/in/igor-rezende-967859106/)
 José Ricardo Coelho | Developer |[https://www.linkedin.com/in/josercoelho/](https://www.linkedin.com/in/josercoelho/)
 José Roberto Almaraz | Oracle | [https://www.linkedin.com/in/jos%C3%A9-roberto-almar%C3%A1z-da-cunha-j%C3%BAn-18515658/](https://www.linkedin.com/in/jos%C3%A9-roberto-almar%C3%A1z-da-cunha-j%C3%BAn-18515658/)
+Jose Silverio Campos Junior | System Engineer | [https://www.linkedin.com/in/josesilverio/](https://www.linkedin.com/in/josesilverio/)
 Kelly Goulart | Business Analyst / Project Manager | [https://www.linkedin.com/in/kellygoulart/](https://www.linkedin.com/in/kellygoulart/)
 Klaus Harmatiuk | Network Administrator | [https://www.linkedin.com/in/klausharmatiuk/](https://www.linkedin.com/in/klausharmatiuk/)
 Leander Seefeld | Developer | [https://www.linkedin.com/in/leanseefeld/](https://www.linkedin.com/in/leanseefeld/)
