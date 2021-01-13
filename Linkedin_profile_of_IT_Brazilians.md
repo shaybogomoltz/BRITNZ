@@ -63,6 +63,7 @@ Leandro Buffone | Senior BI Database Developer | [https://www.linkedin.com/in/le
 Leandro Oliveira | ServiceNow | [https://www.linkedin.com/in/leandro-oliveira-03aa06b/](https://www.linkedin.com/in/leandro-oliveira-03aa06b/)
 Leonardo Gomes de Oliveira | Developer | [https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a](https://www.linkedin.com/in/leonardo-gomes-de-oliveira-a0778a4a)
 Leonardo Machado | Developer | [https://www.linkedin.com/in/lmachado/](https://www.linkedin.com/in/lmachado/)
+Leonardo Ruiz Oberle | Software Engineer | [https://www.linkedin.com/in/leocello/](https://www.linkedin.com/in/leocello/)
 Lucas Barcellos Victoria | Business Analyst | [https://www.linkedin.com/in/lucasvictoria/](https://www.linkedin.com/in/lucasvictoria/)
 Lucas Carreira | Product Owner | [https://www.linkedin.com/in/lucascarreira/](https://www.linkedin.com/in/lucascarreira/)
 Lucas Costa | SAP | [https://www.linkedin.com/in/lucas-costa-59745b2b/](https://www.linkedin.com/in/lucas-costa-59745b2b/)
