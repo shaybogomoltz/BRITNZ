@@ -1,4 +1,4 @@
-# IT_BR_NZ
+# BRITNZ
 
 Mission: Connect Brazilians who work with IT in NZ and help those who want to become one.
 
@@ -16,4 +16,4 @@ So far we've got those sections:
 - [Associations](Associations.md)
 - [Salary Reports](Salary_Report.md)
 
-PS: Have you founded a broken link? Is there something that you can improve? Help us and yourself by editing this document. Don't know how to edit? send me a private message at shay.bogomoltz@gmail.com
+PS: Have you found a broken link? Is there anything you can improve? Help us and yourself by editing this document. Don't know how to edit? send me a private message at shay.bogomoltz@gmail.com
