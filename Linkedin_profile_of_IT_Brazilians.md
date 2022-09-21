@@ -35,6 +35,7 @@ Charles Benedito | Developer | [https://www.linkedin.com/in/charles-benedito/](h
 Daniel Mariz | Developer | [https://www.linkedin.com/in/danielmariz/](https://www.linkedin.com/in/danielmariz/)
 Daniel Serra | Business Analyst | [https://www.linkedin.com/in/danielnaimserra/](https://www.linkedin.com/in/danielnaimserra/)
 Debora Cardoso | Marketing coordinator | [https://www.linkedin.com/in/debora-cardoso-br/](https://www.linkedin.com/in/debora-cardoso-br/)
+Diego Pauletto | Cloud/DevOps | [https://www.linkedin.com/in/diegopauletto90/](https://www.linkedin.com/in/diegopauletto90/)
 Diego Sieg | Developer | [https://www.linkedin.com/in/diegosieg/](https://www.linkedin.com/in/diegosieg/)
 Edjeorgton Neto | Technical Manager| [https://www.linkedin.com/in/edjeorgtonneto/](https://www.linkedin.com/in/edjeorgtonneto/)
 Eduardo Ponzoni | Integration Lead | [https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/](https://www.linkedin.com/in/eduardo-ponzoni-44b7a846/)
