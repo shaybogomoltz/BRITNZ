@@ -2,7 +2,7 @@
 
 Mission: Connect Brazilians who work with IT in NZ and help those who want to become one.
 
-You can also check the [pretty version](https://shaybogomoltz.github.io/IT_BR_NZ/)
+You can also check the [pretty version](https://shaybogomoltz.github.io/BRITNZ/)
 
 So far we've got those sections:
 
